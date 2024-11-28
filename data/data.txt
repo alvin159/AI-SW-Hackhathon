@@ -1,0 +1,11 @@
+yield of main crops in the last 25 years
+https://statdb.luke.fi/PxWeb/pxweb/en/LUKE/LUKE__02%20Maatalous__04%20Tuotanto__14%20Satotilasto/01a_Viljelykasvien_sato_mk.px/
+
+crop production forecast in the last 22 years
+https://statdb.luke.fi/PxWeb/pxweb/en/LUKE/LUKE__02%20Maatalous__04%20Tuotanto__14%20Satotilasto/04_Viljelykasvien_satoarvio.px/
+
+Sales of fertilizers to farms in the past 32 years
+https://statdb.luke.fi/PxWeb/pxweb/en/LUKE/LUKE__08%20Indikaattorit__06%20Ymp%C3%A4rist%C3%B6__12%20Typpi-%20ja%20fosforitase/02_Kasviravinteiden_myynti.px/
+
+Price quotations for grain in Finland
+https://statdb.luke.fi/PxWeb/pxweb/en/LUKE/LUKE__02%20Maatalous__06%20Talous__04%20Maataloustuotteiden%20EU-hintaseuranta/01_Viljan_hinnat_Suomessa.px/
