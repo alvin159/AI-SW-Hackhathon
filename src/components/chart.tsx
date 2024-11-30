@@ -7,7 +7,7 @@ import { ChartContainer, ChartTooltip, ChartTooltipContent } from "@/components/
 import { Slider } from "@mui/material"; // Using Material-UI Slider for the year selection
 import { Checkbox, FormControlLabel } from "@mui/material"; // Using Material-UI Checkbox for toggling lines
 
-interface SalesTrendChartProps {
+interface ChartProps {
   title: string;
   description: string;
   data: any[];
@@ -16,7 +16,7 @@ interface SalesTrendChartProps {
   };
 }
 
-export function Chart({ title, description, data, config }: SalesTrendChartProps) {
+export function Chart({ title, description, data, config }: ChartProps) {
   const [yearRange, setYearRange] = useState<[number, number]>([
     Math.min(...data.map(item => item.year)), // Set the initial start year as the minimum year in data
     Math.max(...data.map(item => item.year)) // Set the initial end year as the maximum year in data
@@ -79,7 +79,7 @@ export function Chart({ title, description, data, config }: SalesTrendChartProps
           </div>
 
           {/* Chart */}
-          <div style={{ height: '85%', width: '100%' }}> {/* This div wraps the chart to give it a fixed height */}
+          <div style={{ height: '85%' }}> {/* This div wraps the chart to give it a fixed height */}
             <ResponsiveContainer>
               <LineChart data={filteredData}>
                 <XAxis dataKey="year" />
