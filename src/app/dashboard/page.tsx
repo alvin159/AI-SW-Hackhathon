@@ -1,7 +1,7 @@
 "use client";
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { PriceTrendChart } from "@/components/charts/price-trend-chart"
+import { CropPriceChart } from "@/components/charts/CropPriceChart"
 import { FertilizerSalesChart } from "@/components/charts/FertilizerChart"
 import { CropYieldChart } from "@/components/charts/CropYieldChart"
 
@@ -47,8 +47,8 @@ export default function DashboardPage() {
         ))}
       </div>
       <FertilizerSalesChart />
-      
       <CropYieldChart />
+      <CropPriceChart />
     </div>
   )
 } 
