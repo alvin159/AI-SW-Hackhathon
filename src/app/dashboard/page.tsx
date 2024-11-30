@@ -2,6 +2,7 @@
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { PriceTrendChart } from "@/components/charts/price-trend-chart"
+import { FertilizerSalesChart } from "@/components/charts/FertilizerChart"
 
 const metrics = [
   {
@@ -44,7 +45,7 @@ export default function DashboardPage() {
           </Card>
         ))}
       </div>
-      <PriceTrendChart />
+      <FertilizerSalesChart />
     </div>
   )
 } 
