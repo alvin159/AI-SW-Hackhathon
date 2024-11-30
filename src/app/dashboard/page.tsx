@@ -3,6 +3,7 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { PriceTrendChart } from "@/components/charts/price-trend-chart"
 import { FertilizerSalesChart } from "@/components/charts/FertilizerChart"
+import { CropYieldChart } from "@/components/charts/CropYieldChart"
 
 const metrics = [
   {
@@ -46,6 +47,8 @@ export default function DashboardPage() {
         ))}
       </div>
       <FertilizerSalesChart />
+      
+      <CropYieldChart />
     </div>
   )
 } 
