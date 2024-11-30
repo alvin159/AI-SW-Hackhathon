@@ -21,7 +21,7 @@ export function Chart({ title, description, data, config }: SalesTrendChartProps
         <CardDescription>{description}</CardDescription>
       </CardHeader>
       <CardContent>
-        <ChartContainer config={config} className="h-[300px]">
+        <ChartContainer config={config} /*className="h-[300px]"*/>
           <ResponsiveContainer width="100%" height="100%">
             <LineChart data={data}>
               <XAxis dataKey="year" />

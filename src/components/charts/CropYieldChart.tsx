@@ -13,7 +13,7 @@ export function CropYieldChart() {
           "Kaura": { label: "Oats", color: "hsl(var(--chart-3))" },
           "Ruis": { label: "Rye", color: "hsl(var(--chart-4))" },
           "Sokerijuurikas": { label: "Sugar Beet", color: "hsl(var(--chart-5))" },
-          "Peruna yhteensä": { label: "Potatoes Total", color: "hsl(var(--chart-6))" },
+          "Peruna yhteensä": { label: "Potatoes Total", color: "hsl(330, 100%, 75%)" },
           //"Säilörehu yhteensä": { label: "Silage Total", color: "hsl(var(--chart-7))" },
           //"Herne": { label: "Peas", color: "hsl(var(--chart-8))" },
           //"Härkäpapu": { label: "Broad Beans", color: "hsl(var(--chart-9))" },
