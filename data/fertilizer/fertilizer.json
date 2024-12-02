@@ -1,0 +1,338 @@
+[
+    {
+        "year": 2002,
+        "Ammonium sulphate": 46285.26073529412,
+        "Diammonium phosphate (DAP)": 40163.55415254237,
+        "Monoammonium phosphate (MAP)": 30411.217416666666,
+        "Potassium chloride (muriate of potash) (MOP)": 169867.96938356163,
+        "Potassium nitrate": 4093.2776470588237,
+        "Potassium sulphate (sulphate of potash) (SOP)": 15105.293666666666,
+        "Sodium nitrate": 1717.5258870967743,
+        "Urea": 129607.65821428571,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2003,
+        "Ammonium sulphate": 53185.833515625,
+        "Diammonium phosphate (DAP)": 48363.58536363636,
+        "Monoammonium phosphate (MAP)": 30468.077916666665,
+        "Potassium chloride (muriate of potash) (MOP)": 191549.14915384617,
+        "Potassium nitrate": 5207.445079365079,
+        "Potassium sulphate (sulphate of potash) (SOP)": 18616.947719298245,
+        "Sodium nitrate": 1792.831101694915,
+        "Urea": 131415.55821428573,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2004,
+        "Ammonium sulphate": 49339.653333333335,
+        "Diammonium phosphate (DAP)": 41517.15838983051,
+        "Monoammonium phosphate (MAP)": 33134.901031746034,
+        "Potassium chloride (muriate of potash) (MOP)": 222060.74871428573,
+        "Potassium nitrate": 5646.1325,
+        "Potassium sulphate (sulphate of potash) (SOP)": 15848.422459016394,
+        "Sodium nitrate": 1762.1355384615383,
+        "Urea": 128721.44171232876,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2005,
+        "Ammonium sulphate": 51128.254411764705,
+        "Diammonium phosphate (DAP)": 38554.725241935485,
+        "Monoammonium phosphate (MAP)": 27796.701984126983,
+        "Potassium chloride (muriate of potash) (MOP)": 252899.17653846153,
+        "Potassium nitrate": 6225.165793650794,
+        "Potassium sulphate (sulphate of potash) (SOP)": 16207.25301724138,
+        "Sodium nitrate": 2104.1283620689655,
+        "Urea": 142601.1251388889,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2006,
+        "Ammonium sulphate": 48000.74242857143,
+        "Diammonium phosphate (DAP)": 43499.67833333334,
+        "Monoammonium phosphate (MAP)": 33892.72778688525,
+        "Potassium chloride (muriate of potash) (MOP)": 218557.96443661972,
+        "Potassium nitrate": 5266.60609375,
+        "Potassium sulphate (sulphate of potash) (SOP)": 17286.952258064517,
+        "Sodium nitrate": 2332.95825,
+        "Urea": 143005.83284722222,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2007,
+        "Ammonium sulphate": 55873.38652777778,
+        "Diammonium phosphate (DAP)": 46945.49516129032,
+        "Monoammonium phosphate (MAP)": 35263.61203125,
+        "Potassium chloride (muriate of potash) (MOP)": 239614.24102739725,
+        "Potassium nitrate": 6764.4378125,
+        "Potassium sulphate (sulphate of potash) (SOP)": 20127.70391666667,
+        "Sodium nitrate": 2365.015967741935,
+        "Urea": 148521.46157534246,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2008,
+        "Ammonium sulphate": 47466.68935714286,
+        "Diammonium phosphate (DAP)": 55039.76483606557,
+        "Monoammonium phosphate (MAP)": 37625.716875,
+        "Potassium chloride (muriate of potash) (MOP)": 316432.5925362319,
+        "Potassium nitrate": 9751.67303030303,
+        "Potassium sulphate (sulphate of potash) (SOP)": 26444.39,
+        "Sodium nitrate": 2416.126846153846,
+        "Urea": 168736.00047945205,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2009,
+        "Ammonium sulphate": 31031.898943661974,
+        "Diammonium phosphate (DAP)": 49685.915084745764,
+        "Monoammonium phosphate (MAP)": 16556.619015151515,
+        "Potassium chloride (muriate of potash) (MOP)": 126708.11378571429,
+        "Potassium nitrate": 6381.085223880597,
+        "Potassium sulphate (sulphate of potash) (SOP)": 12790.779140625,
+        "Sodium nitrate": 2475.671640625,
+        "Urea": 150782.76198630137,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2010,
+        "Ammonium sulphate": 54713.52308219178,
+        "Diammonium phosphate (DAP)": 58770.439354838716,
+        "Monoammonium phosphate (MAP)": 26391.710887096775,
+        "Potassium chloride (muriate of potash) (MOP)": 256781.98376811593,
+        "Potassium nitrate": 10725.460952380952,
+        "Potassium sulphate (sulphate of potash) (SOP)": 17061.453984375003,
+        "Sodium nitrate": 5472.445000000001,
+        "Urea": 147763.15236486486,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2011,
+        "Ammonium sulphate": 65484.605070422534,
+        "Diammonium phosphate (DAP)": 51530.19206349207,
+        "Monoammonium phosphate (MAP)": 40344.30235294118,
+        "Potassium chloride (muriate of potash) (MOP)": 267101.7336428572,
+        "Potassium nitrate": 11146.670923076923,
+        "Potassium sulphate (sulphate of potash) (SOP)": 18519.260476190473,
+        "Sodium nitrate": 3328.732844827586,
+        "Urea": 186446.39324324325,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2012,
+        "Ammonium sulphate": 69630.01775362318,
+        "Diammonium phosphate (DAP)": 53595.92920634921,
+        "Monoammonium phosphate (MAP)": 36840.59356060606,
+        "Potassium chloride (muriate of potash) (MOP)": 276935.23223880597,
+        "Potassium nitrate": 11734.604924242425,
+        "Potassium sulphate (sulphate of potash) (SOP)": 15261.565,
+        "Sodium nitrate": 3517.205,
+        "Urea": 196303.8177027027,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2013,
+        "Ammonium sulphate": 63638.420972222215,
+        "Diammonium phosphate (DAP)": 51065.68023076923,
+        "Monoammonium phosphate (MAP)": 40322.14779411764,
+        "Potassium chloride (muriate of potash) (MOP)": 227610.40816901406,
+        "Potassium nitrate": 11683.61376923077,
+        "Potassium sulphate (sulphate of potash) (SOP)": 19508.709705882353,
+        "Sodium nitrate": 2201.2976153846153,
+        "Urea": 191643.46739726028,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2014,
+        "Ammonium sulphate": 62106.556760563384,
+        "Diammonium phosphate (DAP)": 45198.250984848484,
+        "Monoammonium phosphate (MAP)": 34658.74588235294,
+        "Potassium chloride (muriate of potash) (MOP)": 284764.51749999996,
+        "Potassium nitrate": 11103.992692307693,
+        "Potassium sulphate (sulphate of potash) (SOP)": 21769.808106060605,
+        "Sodium nitrate": 1436.9992857142856,
+        "Urea": 186841.91567567567,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2015,
+        "Ammonium sulphate": 59958.212430555555,
+        "Diammonium phosphate (DAP)": 53101.87681818182,
+        "Monoammonium phosphate (MAP)": 36589.47919117647,
+        "Potassium chloride (muriate of potash) (MOP)": 284058.12069444446,
+        "Potassium nitrate": 10873.860151515151,
+        "Potassium sulphate (sulphate of potash) (SOP)": 23406.057794117645,
+        "Sodium nitrate": 1537.1823333333334,
+        "Urea": 175116.75592105265,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2016,
+        "Ammonium sulphate": 64190.680277777785,
+        "Diammonium phosphate (DAP)": 51720.98569230769,
+        "Monoammonium phosphate (MAP)": 34628.52652173913,
+        "Potassium chloride (muriate of potash) (MOP)": 302159.9009027778,
+        "Potassium nitrate": 9300.747142857144,
+        "Potassium sulphate (sulphate of potash) (SOP)": 17029.149558823527,
+        "Sodium nitrate": 1786.8494262295083,
+        "Urea": 184220.82873333336,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2017,
+        "Ammonium sulphate": 68152.42814285714,
+        "Diammonium phosphate (DAP)": 51328.08911764706,
+        "Monoammonium phosphate (MAP)": 41195.469696969696,
+        "Potassium chloride (muriate of potash) (MOP)": 377709.8453472222,
+        "Potassium nitrate": 11365.217173913043,
+        "Potassium sulphate (sulphate of potash) (SOP)": 21049.04108695652,
+        "Sodium nitrate": 1936.6364285714285,
+        "Urea": 189293.38600000003,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2018,
+        "Ammonium sulphate": 57538.09305555555,
+        "Diammonium phosphate (DAP)": 48562.61242647059,
+        "Monoammonium phosphate (MAP)": 43385.65313432836,
+        "Potassium chloride (muriate of potash) (MOP)": 250720.3710958904,
+        "Potassium nitrate": 11873.984179104476,
+        "Potassium sulphate (sulphate of potash) (SOP)": 16887.847028985507,
+        "Sodium nitrate": 1387.1838636363636,
+        "Urea": 193214.96353333333,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2019,
+        "Ammonium sulphate": 60409.87395833333,
+        "Diammonium phosphate (DAP)": 52325.10022058823,
+        "Monoammonium phosphate (MAP)": 38359.96007142857,
+        "Potassium chloride (muriate of potash) (MOP)": 266745.31697183097,
+        "Potassium nitrate": 10558.114701492537,
+        "Potassium sulphate (sulphate of potash) (SOP)": 17838.330579710146,
+        "Sodium nitrate": 1763.0485384615386,
+        "Urea": 194783.97467105265,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2020,
+        "Ammonium sulphate": 51950.42116438356,
+        "Diammonium phosphate (DAP)": 52483.15284615385,
+        "Monoammonium phosphate (MAP)": 38138.10522058823,
+        "Potassium chloride (muriate of potash) (MOP)": 254988.25816901407,
+        "Potassium nitrate": 9299.002426470588,
+        "Potassium sulphate (sulphate of potash) (SOP)": 18883.76095588235,
+        "Sodium nitrate": 1750.0788461538461,
+        "Urea": 204762.37445945945,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2021,
+        "Ammonium sulphate": 58559.29048611111,
+        "Diammonium phosphate (DAP)": 47493.32123188406,
+        "Monoammonium phosphate (MAP)": 48201.78,
+        "Potassium chloride (muriate of potash) (MOP)": 311414.3923943662,
+        "Potassium nitrate": 12395.357538461538,
+        "Potassium sulphate (sulphate of potash) (SOP)": 18881.108913043478,
+        "Sodium nitrate": 1479.4006923076922,
+        "Urea": 231753.8853333333,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2022,
+        "Ammonium sulphate": 60534.92347826087,
+        "Diammonium phosphate (DAP)": 19094.57069230769,
+        "Monoammonium phosphate (MAP)": 17182.05653846154,
+        "Potassium chloride (muriate of potash) (MOP)": 147434.31564285714,
+        "Potassium nitrate": 12728.943863636365,
+        "Potassium sulphate (sulphate of potash) (SOP)": 18911.211742424242,
+        "Sodium nitrate": 1178.5755555555554,
+        "Urea": 226126.9189189189,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    }
+]

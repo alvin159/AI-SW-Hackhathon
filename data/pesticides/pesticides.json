@@ -1,0 +1,191 @@
+[
+    {
+        "year": 2002,
+        "Pesticides (total)": 137275.9486232558,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2003,
+        "Pesticides (total)": 157661.55377906977,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2004,
+        "Pesticides (total)": 185043.68454418602,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2005,
+        "Pesticides (total)": 195933.0263813954,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2006,
+        "Pesticides (total)": 189277.67308863637,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2007,
+        "Pesticides (total)": 232637.69445909094,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2008,
+        "Pesticides (total)": 294468.71201136365,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2009,
+        "Pesticides (total)": 264972.1392431818,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2010,
+        "Pesticides (total)": 244500.87327954546,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2011,
+        "Pesticides (total)": 305711.7418795455,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2012,
+        "Pesticides (total)": 305397.4514136362,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2013,
+        "Pesticides (total)": 324454.40859090904,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2014,
+        "Pesticides (total)": 347786.11072272726,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2015,
+        "Pesticides (total)": 307214.18783863634,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2016,
+        "Pesticides (total)": 302539.5825272728,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2017,
+        "Pesticides (total)": 321250.1559659091,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2018,
+        "Pesticides (total)": 335575.2679340909,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2019,
+        "Pesticides (total)": 322615.9294977273,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2020,
+        "Pesticides (total)": 354247.49748409097,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2021,
+        "Pesticides (total)": 350357.2968045455,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    },
+    {
+        "year": 2022,
+        "Pesticides (total)": 365012.062075,
+        "price_details": {
+            "unit": "USD/ton",
+            "alternative_unit": "USD/kg",
+            "conversion_note": "Prices are primarily in USD/ton. To convert to USD/kg, divide by 1000."
+        }
+    }
+]                                                                                                                                                                                   
