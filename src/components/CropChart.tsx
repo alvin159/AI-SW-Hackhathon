@@ -36,9 +36,15 @@ export default function CropChart({ data, cropName, compact = false }: CropChart
               <stop offset="95%" stopColor="#00bcd4" stopOpacity={0.1} />
             </linearGradient>
           </defs>
-          {/* <CartesianGrid str okeDasharray="3 3" vertical={false} /> */}
-          <XAxis dataKey="date" />
-          <YAxis />
+          <XAxis 
+            dataKey="date" 
+            tick={{ fill: "currentColor" }}
+            className="text-xs"
+          />
+          <YAxis 
+            tick={{ fill: "currentColor" }}
+            className="text-xs"
+          />
           <Tooltip />
           <Area
             type="monotone"
@@ -46,7 +52,6 @@ export default function CropChart({ data, cropName, compact = false }: CropChart
             stroke="#00bcd4"
             fillOpacity={0.4}
             fill={`url(#fill${cropName})`}
-       
           />
         </AreaChart>
       </ResponsiveContainer>
