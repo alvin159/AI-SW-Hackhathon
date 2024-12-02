@@ -1,10 +1,6 @@
 import { useState } from "react";
 import axios from "axios";
 
-import crops1 from '@/data-trends/crops.json';
-import fertilizerData from '../../data/fertilizer/fertilizer.json';
-import pesticideData from '../../data/pesticides/pesticides.json';
-
 const useAgricultureAssistant = () => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
@@ -67,10 +63,13 @@ const useAgricultureAssistant = () => {
 
       // Consolidate historical data
       const historicalData = {
-        crops: crops1,
-        fertilizers: fertilizerData,
-        pesticides: pesticideData,
+        crops: require('../../data/crops_livestock_eu/crop_price.json'),
+        fertilizers: require('../../data/fertilizer/fertilizer.json'),
+        pesticides: require('../../data/pesticides/pesticides.json'),
+        cropYield: require('../../data/crop_yield_1999_2022.json'),
+        fertilizersSales: require('../../data/fertilizer_sales_1990_2022.json'),
       };
+      
 
       const response = await axios.post("/api/openai", {
         query,
