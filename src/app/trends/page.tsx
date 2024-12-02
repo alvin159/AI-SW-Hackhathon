@@ -15,6 +15,15 @@ export default function Home() {
     await analyzeQuery(query, concept, location);
   };
 
+  const handleSuggestion = async (suggestion) => {
+    setQuery(suggestion);
+    const concept = "Phosphate_fertilizer";
+    const location = "Europe";
+
+    console.log("Submitting suggestion:", suggestion);
+    await analyzeQuery(suggestion, concept, location);
+  };
+
   return (
     <main className="container mx-auto px-4 py-8 space-y-8">
       <h1 className="text-4xl font-bold mb-4">Agriculture Decision Assistant</h1>
@@ -31,6 +40,20 @@ export default function Home() {
           {loading ? "Processing..." : "Submit"}
         </button>
       </form>
+      
+      <div className="flex flex-wrap gap-4 mt-4">
+        {["Wheat", "Barley", "Oats", "Rye", "Potatoes"].map((crop) => (
+          <button
+            key={crop}
+            onClick={() => handleSuggestion(`Optimal fertilizer for ${crop}`)}
+            disabled={loading}
+            className="p-2 bg-green-500 text-white rounded"
+          >
+            {crop}
+          </button>
+        ))}
+      </div>
+      
       {error && <p className="text-red-500 mt-2">Error: {error}</p>}
       {result && <p className="mt-2"><strong>Recommendation:</strong> {result}</p>}
     </main>
