@@ -12,7 +12,7 @@ export async function POST(req: NextRequest) {
     const completion = await openai.chat.completions.create({
       model: "gpt-4o-mini",
       messages: [
-        { role: "system", content: "You are an agricultural assistant." },
+        { role: "system", content: " Act like an agricultural assistant." },
         {
           role: "user",
           content: `
