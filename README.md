@@ -4,9 +4,9 @@ A modern dashboard for analyzing agricultural market trends in Finland, built wi
 
 ## Features
 
-- 📊 Real-time visualization of crop yields, production forecasts and fertilizer sales data
+- 📊 Visualization of crop yields, production forecasts and fertilizer sales data
 - 📱 Responsive design with mobile support
-- 🌓 Light/Dark mode support
+- 🌓 Dark mode
 - 📈 Interactive trend analysis and price tracking
 - 🎨 Clean, modern interface
 
@@ -20,8 +20,20 @@ cd AI-SW-Hackhathon
 
 2. Install dependencies with legacy peer deps:
 ```bash
-npm install --legacy-peer-deps
+npm install
 ```
+
+3. Configure environment variables:  
+- There is a `.env.example` file provided in the repository, which includes the required variables for OpenWeather and OpenAI APIs.  
+- Copy the example file to `.env.local` and fill in your API keys:
+    ```bash
+    cp .env.example .env.local
+    ```
+    Update `.env.local` with your API keys:
+    ```env
+    NEXT_PUBLIC_OPENWEATHER_API_KEY=your_openweather_api_key
+    OPENAI_API_KEY=your_openai_api_key
+    ```
 
 
 
