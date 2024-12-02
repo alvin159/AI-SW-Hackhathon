@@ -7,6 +7,9 @@ import CropPriceTrends from '@/components/CropPriceTrends';
 import FertilizerPriceTrends from '@/components/FertilizerPriceTrends';
 import PesticidePriceTrends from '@/components/PesticidePriceTrends';
 import useAgricultureAssistant from "@/hooks/use-agro-hook";
+import crops1 from '@/data-trends/crops.json'
+import fertilizerData from '../../../data/fertilizer/fertilizer.json';
+import pesticideData from '../../../data/pesticides/pesticides.json';
 
 export default function Home() {
   const [query, setQuery] = useState("");
