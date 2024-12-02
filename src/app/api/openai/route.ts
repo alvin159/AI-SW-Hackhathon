@@ -1,16 +1,14 @@
 import OpenAI from "openai";
-import { NextApiRequest, NextApiResponse } from "next";
+import { NextRequest, NextResponse } from "next/server";
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-export default async function handler(req: NextApiRequest, res: NextApiResponse) {
-  if (req.method !== "POST") {
-    return res.status(405).json({ error: "Only POST requests are allowed" });
-  }
-
-  const { query, newsInsights, weatherData, historicalTrends } = req.body;
-
+export async function POST(req: NextRequest) {
   try {
+    const body = await req.json();
+
+    const { query, newsInsights, weatherData, historicalTrends } = body;
+
     const completion = await openai.chat.completions.create({
       model: "gpt-4o-mini",
       messages: [
@@ -27,9 +25,9 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       ],
     });
 
-    res.status(200).json({ recommendation: completion.choices[0]?.message.content?.trim() });
+    return NextResponse.json({ recommendation: completion.choices[0]?.message.content?.trim() });
   } catch (error) {
     console.error("Error with OpenAI API:", error);
-    res.status(500).json({ error: "Failed to process the query." });
+    return NextResponse.json({ error: "Failed to process the query." }, { status: 500 });
   }
 }
