@@ -51,7 +51,7 @@ export default function Home() {
         {["Wheat", "Barley", "Oats", "Rye", "Potatoes"].map((crop) => (
           <button
             key={crop}
-            onClick={() => handleSuggestion(`Optimal fertilizer for ${crop}`)}
+            onClick={() => handleSuggestion(`Based on all the data, give your analysis of ${crop}`)}
             disabled={loading}
             className="p-2 bg-green-500 text-white rounded"
           >
