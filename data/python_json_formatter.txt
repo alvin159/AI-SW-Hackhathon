@@ -1,0 +1,39 @@
+import json
+
+# Load the data
+with open('data.json', 'r', encoding='utf-8') as file:
+    raw_data = json.load(file)
+
+# Transform the data
+formatted_data = []
+temp_data = {}
+
+for entry in raw_data:
+    year = int(entry['key'][0])  # Extract the year
+    crop_name = entry['key'][3]  # Extract the crop name
+    value = entry['values'][0]  # Extract the value
+    
+    # Skip invalid or placeholder data
+    if value in ["-", ".."]:
+        continue
+    
+    # Convert value to a float
+    value = float(value)
+    
+    # Organize data by year
+    if year not in temp_data:
+        temp_data[year] = {}
+    temp_data[year][crop_name] = value
+
+# Convert into desired structure
+for year, data in temp_data.items():
+    formatted_data.append({
+        "year": year,
+        **data
+    })
+
+# Save to a new JSON file
+with open('formatted_data.json', 'w', encoding='utf-8') as output_file:
+    json.dump(formatted_data, output_file, ensure_ascii=False, indent=2)
+
+print("Data transformation complete. Output saved to 'formatted_data.json'.")
