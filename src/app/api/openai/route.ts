@@ -9,18 +9,30 @@ export async function POST(req: NextRequest) {
 
     const { query, newsInsights, weatherData, historicalTrends } = body;
 
+    const prompt = `
+      You are an agriculture assistant AI. Answer user queries using the provided historical data, weather, and news insights.
+      Always prioritize the provided data and give concise, well-structured answers. Maintain a consistent layout.
+      
+      Historical Data:
+      Crops: ${JSON.stringify(historicalTrends.crops)}
+      Fertilizers: ${JSON.stringify(historicalTrends.fertilizers)}
+      Pesticides: ${JSON.stringify(historicalTrends.pesticides)}
+
+      News Insights:
+      ${newsInsights.join("\n")}
+
+      Weather Data:
+      ${JSON.stringify(weatherData)}
+
+      User Query: ${query}
+    `;
     const completion = await openai.chat.completions.create({
       model: "gpt-4o-mini",
       messages: [
         { role: "system", content: " Act like an agricultural assistant." },
         {
           role: "user",
-          content: `
-            Query: ${query}
-            News Insights: ${newsInsights.join(", ")}
-            Weather Data: ${JSON.stringify(weatherData)}
-            Historical Trends: ${JSON.stringify(historicalTrends)}
-          `,
+          content: prompt
         },
       ],
     });

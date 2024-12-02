@@ -1,6 +1,10 @@
 import { useState } from "react";
 import axios from "axios";
 
+import crops1 from '@/data-trends/crops.json';
+import fertilizerData from '../../data/fertilizer/fertilizer.json';
+import pesticideData from '../../data/pesticides/pesticides.json';
+
 const useAgricultureAssistant = () => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
@@ -50,15 +54,23 @@ const useAgricultureAssistant = () => {
     }
   };
 
-  const analyzeQuery = async (query: string, concept: string, location: string, historicalData = []) => {
+  const analyzeQuery = async (query: string, concept: string, location: string) => {
     setLoading(true);
     setError(null);
 
     try {
       console.log("Analyzing query:", query);
 
+      // Fetch additional dynamic data
       const news = await fetchNews(concept, location);
       const weather = await fetchWeather(location);
+
+      // Consolidate historical data
+      const historicalData = {
+        crops: crops1,
+        fertilizers: fertilizerData,
+        pesticides: pesticideData,
+      };
 
       const response = await axios.post("/api/openai", {
         query,
