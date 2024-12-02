@@ -1,10 +1,9 @@
 "use client";
 
-import { Line, LineChart, ResponsiveContainer, XAxis, YAxis } from "recharts";
+import { Line, LineChart, ResponsiveContainer, XAxis, YAxis, Tooltip } from "recharts";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { ChartContainer, ChartTooltip, ChartTooltipContent } from "@/components/ui/chart";
 
-interface SalesTrendChartProps {
+interface ChartProps {
   title: string;
   description: string;
   data: any[];
@@ -13,7 +12,7 @@ interface SalesTrendChartProps {
   };
 }
 
-export function Chart({ title, description, data, config }: SalesTrendChartProps) {
+export function Chart({ title, description, data, config }: ChartProps) {
   return (
     <Card>
       <CardHeader>
@@ -21,12 +20,12 @@ export function Chart({ title, description, data, config }: SalesTrendChartProps
         <CardDescription>{description}</CardDescription>
       </CardHeader>
       <CardContent>
-        <ChartContainer config={config} className="h-[300px]">
+        <div className="h-[300px]">
           <ResponsiveContainer width="100%" height="100%">
             <LineChart data={data}>
               <XAxis dataKey="year" />
               <YAxis />
-              <ChartTooltip content={<ChartTooltipContent />} />
+              <Tooltip />
               {Object.keys(config).map((key) => (
                 <Line
                   key={key}
@@ -38,7 +37,7 @@ export function Chart({ title, description, data, config }: SalesTrendChartProps
               ))}
             </LineChart>
           </ResponsiveContainer>
-        </ChartContainer>
+        </div>
       </CardContent>
     </Card>
   );

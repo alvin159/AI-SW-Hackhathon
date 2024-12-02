@@ -1,0 +1,3782 @@
+[
+    {
+        "Year": 1990,
+        "Month": 1,
+        "Wheat": 0.154,
+        "Barley": 0.123,
+        "Oats": 0.142,
+        "Rye": 0.099,
+        "Potatoes": 0.198
+    },
+    {
+        "Year": 1990,
+        "Month": 2,
+        "Wheat": 0.15,
+        "Barley": 0.123,
+        "Oats": 0.143,
+        "Rye": 0.103,
+        "Potatoes": 0.201
+    },
+    {
+        "Year": 1990,
+        "Month": 3,
+        "Wheat": 0.155,
+        "Barley": 0.117,
+        "Oats": 0.139,
+        "Rye": 0.096,
+        "Potatoes": 0.196
+    },
+    {
+        "Year": 1990,
+        "Month": 4,
+        "Wheat": 0.151,
+        "Barley": 0.123,
+        "Oats": 0.144,
+        "Rye": 0.099,
+        "Potatoes": 0.198
+    },
+    {
+        "Year": 1990,
+        "Month": 5,
+        "Wheat": 0.155,
+        "Barley": 0.116,
+        "Oats": 0.145,
+        "Rye": 0.098,
+        "Potatoes": 0.199
+    },
+    {
+        "Year": 1990,
+        "Month": 6,
+        "Wheat": 0.155,
+        "Barley": 0.119,
+        "Oats": 0.141,
+        "Rye": 0.102,
+        "Potatoes": 0.198
+    },
+    {
+        "Year": 1990,
+        "Month": 7,
+        "Wheat": 0.15,
+        "Barley": 0.121,
+        "Oats": 0.143,
+        "Rye": 0.106,
+        "Potatoes": 0.202
+    },
+    {
+        "Year": 1990,
+        "Month": 8,
+        "Wheat": 0.149,
+        "Barley": 0.118,
+        "Oats": 0.143,
+        "Rye": 0.105,
+        "Potatoes": 0.201
+    },
+    {
+        "Year": 1990,
+        "Month": 9,
+        "Wheat": 0.156,
+        "Barley": 0.122,
+        "Oats": 0.141,
+        "Rye": 0.098,
+        "Potatoes": 0.206
+    },
+    {
+        "Year": 1990,
+        "Month": 10,
+        "Wheat": 0.154,
+        "Barley": 0.126,
+        "Oats": 0.139,
+        "Rye": 0.101,
+        "Potatoes": 0.206
+    },
+    {
+        "Year": 1990,
+        "Month": 11,
+        "Wheat": 0.154,
+        "Barley": 0.126,
+        "Oats": 0.142,
+        "Rye": 0.103,
+        "Potatoes": 0.201
+    },
+    {
+        "Year": 1990,
+        "Month": 12,
+        "Wheat": 0.151,
+        "Barley": 0.119,
+        "Oats": 0.139,
+        "Rye": 0.104,
+        "Potatoes": 0.207
+    },
+    {
+        "Year": 1991,
+        "Month": 1,
+        "Wheat": 0.158,
+        "Barley": 0.126,
+        "Oats": 0.146,
+        "Rye": 0.099,
+        "Potatoes": 0.206
+    },
+    {
+        "Year": 1991,
+        "Month": 2,
+        "Wheat": 0.155,
+        "Barley": 0.122,
+        "Oats": 0.141,
+        "Rye": 0.099,
+        "Potatoes": 0.21
+    },
+    {
+        "Year": 1991,
+        "Month": 3,
+        "Wheat": 0.15,
+        "Barley": 0.124,
+        "Oats": 0.148,
+        "Rye": 0.108,
+        "Potatoes": 0.209
+    },
+    {
+        "Year": 1991,
+        "Month": 4,
+        "Wheat": 0.154,
+        "Barley": 0.123,
+        "Oats": 0.14,
+        "Rye": 0.101,
+        "Potatoes": 0.21
+    },
+    {
+        "Year": 1991,
+        "Month": 5,
+        "Wheat": 0.157,
+        "Barley": 0.126,
+        "Oats": 0.149,
+        "Rye": 0.106,
+        "Potatoes": 0.203
+    },
+    {
+        "Year": 1991,
+        "Month": 6,
+        "Wheat": 0.154,
+        "Barley": 0.122,
+        "Oats": 0.146,
+        "Rye": 0.109,
+        "Potatoes": 0.211
+    },
+    {
+        "Year": 1991,
+        "Month": 7,
+        "Wheat": 0.157,
+        "Barley": 0.126,
+        "Oats": 0.14,
+        "Rye": 0.101,
+        "Potatoes": 0.209
+    },
+    {
+        "Year": 1991,
+        "Month": 8,
+        "Wheat": 0.154,
+        "Barley": 0.128,
+        "Oats": 0.15,
+        "Rye": 0.107,
+        "Potatoes": 0.208
+    },
+    {
+        "Year": 1991,
+        "Month": 9,
+        "Wheat": 0.15,
+        "Barley": 0.129,
+        "Oats": 0.14,
+        "Rye": 0.109,
+        "Potatoes": 0.212
+    },
+    {
+        "Year": 1991,
+        "Month": 10,
+        "Wheat": 0.155,
+        "Barley": 0.127,
+        "Oats": 0.146,
+        "Rye": 0.105,
+        "Potatoes": 0.211
+    },
+    {
+        "Year": 1991,
+        "Month": 11,
+        "Wheat": 0.161,
+        "Barley": 0.126,
+        "Oats": 0.142,
+        "Rye": 0.106,
+        "Potatoes": 0.211
+    },
+    {
+        "Year": 1991,
+        "Month": 12,
+        "Wheat": 0.159,
+        "Barley": 0.122,
+        "Oats": 0.149,
+        "Rye": 0.11,
+        "Potatoes": 0.21
+    },
+    {
+        "Year": 1992,
+        "Month": 1,
+        "Wheat": 0.153,
+        "Barley": 0.122,
+        "Oats": 0.148,
+        "Rye": 0.108,
+        "Potatoes": 0.207
+    },
+    {
+        "Year": 1992,
+        "Month": 2,
+        "Wheat": 0.156,
+        "Barley": 0.125,
+        "Oats": 0.144,
+        "Rye": 0.106,
+        "Potatoes": 0.214
+    },
+    {
+        "Year": 1992,
+        "Month": 3,
+        "Wheat": 0.157,
+        "Barley": 0.13,
+        "Oats": 0.146,
+        "Rye": 0.105,
+        "Potatoes": 0.212
+    },
+    {
+        "Year": 1992,
+        "Month": 4,
+        "Wheat": 0.155,
+        "Barley": 0.124,
+        "Oats": 0.151,
+        "Rye": 0.105,
+        "Potatoes": 0.215
+    },
+    {
+        "Year": 1992,
+        "Month": 5,
+        "Wheat": 0.162,
+        "Barley": 0.128,
+        "Oats": 0.15,
+        "Rye": 0.109,
+        "Potatoes": 0.216
+    },
+    {
+        "Year": 1992,
+        "Month": 6,
+        "Wheat": 0.161,
+        "Barley": 0.124,
+        "Oats": 0.151,
+        "Rye": 0.109,
+        "Potatoes": 0.218
+    },
+    {
+        "Year": 1992,
+        "Month": 7,
+        "Wheat": 0.157,
+        "Barley": 0.124,
+        "Oats": 0.145,
+        "Rye": 0.114,
+        "Potatoes": 0.219
+    },
+    {
+        "Year": 1992,
+        "Month": 8,
+        "Wheat": 0.156,
+        "Barley": 0.131,
+        "Oats": 0.15,
+        "Rye": 0.106,
+        "Potatoes": 0.213
+    },
+    {
+        "Year": 1992,
+        "Month": 9,
+        "Wheat": 0.154,
+        "Barley": 0.131,
+        "Oats": 0.144,
+        "Rye": 0.111,
+        "Potatoes": 0.218
+    },
+    {
+        "Year": 1992,
+        "Month": 10,
+        "Wheat": 0.16,
+        "Barley": 0.134,
+        "Oats": 0.153,
+        "Rye": 0.109,
+        "Potatoes": 0.213
+    },
+    {
+        "Year": 1992,
+        "Month": 11,
+        "Wheat": 0.162,
+        "Barley": 0.133,
+        "Oats": 0.149,
+        "Rye": 0.109,
+        "Potatoes": 0.221
+    },
+    {
+        "Year": 1992,
+        "Month": 12,
+        "Wheat": 0.158,
+        "Barley": 0.132,
+        "Oats": 0.154,
+        "Rye": 0.116,
+        "Potatoes": 0.215
+    },
+    {
+        "Year": 1993,
+        "Month": 1,
+        "Wheat": 0.156,
+        "Barley": 0.13,
+        "Oats": 0.145,
+        "Rye": 0.115,
+        "Potatoes": 0.22
+    },
+    {
+        "Year": 1993,
+        "Month": 2,
+        "Wheat": 0.163,
+        "Barley": 0.127,
+        "Oats": 0.145,
+        "Rye": 0.11,
+        "Potatoes": 0.216
+    },
+    {
+        "Year": 1993,
+        "Month": 3,
+        "Wheat": 0.159,
+        "Barley": 0.125,
+        "Oats": 0.148,
+        "Rye": 0.11,
+        "Potatoes": 0.214
+    },
+    {
+        "Year": 1993,
+        "Month": 4,
+        "Wheat": 0.158,
+        "Barley": 0.135,
+        "Oats": 0.149,
+        "Rye": 0.113,
+        "Potatoes": 0.221
+    },
+    {
+        "Year": 1993,
+        "Month": 5,
+        "Wheat": 0.163,
+        "Barley": 0.132,
+        "Oats": 0.149,
+        "Rye": 0.114,
+        "Potatoes": 0.219
+    },
+    {
+        "Year": 1993,
+        "Month": 6,
+        "Wheat": 0.161,
+        "Barley": 0.127,
+        "Oats": 0.153,
+        "Rye": 0.115,
+        "Potatoes": 0.216
+    },
+    {
+        "Year": 1993,
+        "Month": 7,
+        "Wheat": 0.164,
+        "Barley": 0.128,
+        "Oats": 0.153,
+        "Rye": 0.112,
+        "Potatoes": 0.224
+    },
+    {
+        "Year": 1993,
+        "Month": 8,
+        "Wheat": 0.165,
+        "Barley": 0.134,
+        "Oats": 0.15,
+        "Rye": 0.116,
+        "Potatoes": 0.218
+    },
+    {
+        "Year": 1993,
+        "Month": 9,
+        "Wheat": 0.16,
+        "Barley": 0.129,
+        "Oats": 0.147,
+        "Rye": 0.117,
+        "Potatoes": 0.221
+    },
+    {
+        "Year": 1993,
+        "Month": 10,
+        "Wheat": 0.162,
+        "Barley": 0.137,
+        "Oats": 0.148,
+        "Rye": 0.117,
+        "Potatoes": 0.22
+    },
+    {
+        "Year": 1993,
+        "Month": 11,
+        "Wheat": 0.163,
+        "Barley": 0.129,
+        "Oats": 0.156,
+        "Rye": 0.112,
+        "Potatoes": 0.224
+    },
+    {
+        "Year": 1993,
+        "Month": 12,
+        "Wheat": 0.166,
+        "Barley": 0.136,
+        "Oats": 0.156,
+        "Rye": 0.112,
+        "Potatoes": 0.223
+    },
+    {
+        "Year": 1994,
+        "Month": 1,
+        "Wheat": 0.16,
+        "Barley": 0.134,
+        "Oats": 0.151,
+        "Rye": 0.113,
+        "Potatoes": 0.219
+    },
+    {
+        "Year": 1994,
+        "Month": 2,
+        "Wheat": 0.158,
+        "Barley": 0.133,
+        "Oats": 0.154,
+        "Rye": 0.112,
+        "Potatoes": 0.228
+    },
+    {
+        "Year": 1994,
+        "Month": 3,
+        "Wheat": 0.162,
+        "Barley": 0.138,
+        "Oats": 0.155,
+        "Rye": 0.117,
+        "Potatoes": 0.225
+    },
+    {
+        "Year": 1994,
+        "Month": 4,
+        "Wheat": 0.161,
+        "Barley": 0.137,
+        "Oats": 0.156,
+        "Rye": 0.112,
+        "Potatoes": 0.223
+    },
+    {
+        "Year": 1994,
+        "Month": 5,
+        "Wheat": 0.162,
+        "Barley": 0.133,
+        "Oats": 0.155,
+        "Rye": 0.121,
+        "Potatoes": 0.222
+    },
+    {
+        "Year": 1994,
+        "Month": 6,
+        "Wheat": 0.163,
+        "Barley": 0.139,
+        "Oats": 0.156,
+        "Rye": 0.118,
+        "Potatoes": 0.223
+    },
+    {
+        "Year": 1994,
+        "Month": 7,
+        "Wheat": 0.16,
+        "Barley": 0.131,
+        "Oats": 0.159,
+        "Rye": 0.115,
+        "Potatoes": 0.223
+    },
+    {
+        "Year": 1994,
+        "Month": 8,
+        "Wheat": 0.163,
+        "Barley": 0.139,
+        "Oats": 0.157,
+        "Rye": 0.115,
+        "Potatoes": 0.224
+    },
+    {
+        "Year": 1994,
+        "Month": 9,
+        "Wheat": 0.163,
+        "Barley": 0.13,
+        "Oats": 0.155,
+        "Rye": 0.115,
+        "Potatoes": 0.223
+    },
+    {
+        "Year": 1994,
+        "Month": 10,
+        "Wheat": 0.167,
+        "Barley": 0.137,
+        "Oats": 0.153,
+        "Rye": 0.124,
+        "Potatoes": 0.222
+    },
+    {
+        "Year": 1994,
+        "Month": 11,
+        "Wheat": 0.166,
+        "Barley": 0.132,
+        "Oats": 0.157,
+        "Rye": 0.121,
+        "Potatoes": 0.223
+    },
+    {
+        "Year": 1994,
+        "Month": 12,
+        "Wheat": 0.168,
+        "Barley": 0.14,
+        "Oats": 0.151,
+        "Rye": 0.119,
+        "Potatoes": 0.227
+    },
+    {
+        "Year": 1995,
+        "Month": 1,
+        "Wheat": 0.167,
+        "Barley": 0.139,
+        "Oats": 0.159,
+        "Rye": 0.123,
+        "Potatoes": 0.23
+    },
+    {
+        "Year": 1995,
+        "Month": 2,
+        "Wheat": 0.17,
+        "Barley": 0.135,
+        "Oats": 0.158,
+        "Rye": 0.119,
+        "Potatoes": 0.233
+    },
+    {
+        "Year": 1995,
+        "Month": 3,
+        "Wheat": 0.161,
+        "Barley": 0.132,
+        "Oats": 0.157,
+        "Rye": 0.121,
+        "Potatoes": 0.228
+    },
+    {
+        "Year": 1995,
+        "Month": 4,
+        "Wheat": 0.17,
+        "Barley": 0.139,
+        "Oats": 0.156,
+        "Rye": 0.119,
+        "Potatoes": 0.228
+    },
+    {
+        "Year": 1995,
+        "Month": 5,
+        "Wheat": 0.167,
+        "Barley": 0.14,
+        "Oats": 0.154,
+        "Rye": 0.118,
+        "Potatoes": 0.227
+    },
+    {
+        "Year": 1995,
+        "Month": 6,
+        "Wheat": 0.169,
+        "Barley": 0.137,
+        "Oats": 0.158,
+        "Rye": 0.119,
+        "Potatoes": 0.232
+    },
+    {
+        "Year": 1995,
+        "Month": 7,
+        "Wheat": 0.165,
+        "Barley": 0.134,
+        "Oats": 0.152,
+        "Rye": 0.125,
+        "Potatoes": 0.226
+    },
+    {
+        "Year": 1995,
+        "Month": 8,
+        "Wheat": 0.171,
+        "Barley": 0.141,
+        "Oats": 0.162,
+        "Rye": 0.123,
+        "Potatoes": 0.228
+    },
+    {
+        "Year": 1995,
+        "Month": 9,
+        "Wheat": 0.167,
+        "Barley": 0.141,
+        "Oats": 0.16,
+        "Rye": 0.118,
+        "Potatoes": 0.228
+    },
+    {
+        "Year": 1995,
+        "Month": 10,
+        "Wheat": 0.164,
+        "Barley": 0.133,
+        "Oats": 0.16,
+        "Rye": 0.124,
+        "Potatoes": 0.227
+    },
+    {
+        "Year": 1995,
+        "Month": 11,
+        "Wheat": 0.17,
+        "Barley": 0.14,
+        "Oats": 0.157,
+        "Rye": 0.127,
+        "Potatoes": 0.231
+    },
+    {
+        "Year": 1995,
+        "Month": 12,
+        "Wheat": 0.167,
+        "Barley": 0.137,
+        "Oats": 0.155,
+        "Rye": 0.123,
+        "Potatoes": 0.231
+    },
+    {
+        "Year": 1996,
+        "Month": 1,
+        "Wheat": 0.166,
+        "Barley": 0.144,
+        "Oats": 0.153,
+        "Rye": 0.125,
+        "Potatoes": 0.237
+    },
+    {
+        "Year": 1996,
+        "Month": 2,
+        "Wheat": 0.167,
+        "Barley": 0.141,
+        "Oats": 0.16,
+        "Rye": 0.124,
+        "Potatoes": 0.235
+    },
+    {
+        "Year": 1996,
+        "Month": 3,
+        "Wheat": 0.173,
+        "Barley": 0.144,
+        "Oats": 0.158,
+        "Rye": 0.121,
+        "Potatoes": 0.23
+    },
+    {
+        "Year": 1996,
+        "Month": 4,
+        "Wheat": 0.17,
+        "Barley": 0.142,
+        "Oats": 0.155,
+        "Rye": 0.128,
+        "Potatoes": 0.233
+    },
+    {
+        "Year": 1996,
+        "Month": 5,
+        "Wheat": 0.172,
+        "Barley": 0.141,
+        "Oats": 0.16,
+        "Rye": 0.121,
+        "Potatoes": 0.236
+    },
+    {
+        "Year": 1996,
+        "Month": 6,
+        "Wheat": 0.173,
+        "Barley": 0.138,
+        "Oats": 0.163,
+        "Rye": 0.129,
+        "Potatoes": 0.239
+    },
+    {
+        "Year": 1996,
+        "Month": 7,
+        "Wheat": 0.165,
+        "Barley": 0.138,
+        "Oats": 0.162,
+        "Rye": 0.129,
+        "Potatoes": 0.235
+    },
+    {
+        "Year": 1996,
+        "Month": 8,
+        "Wheat": 0.17,
+        "Barley": 0.145,
+        "Oats": 0.157,
+        "Rye": 0.124,
+        "Potatoes": 0.231
+    },
+    {
+        "Year": 1996,
+        "Month": 9,
+        "Wheat": 0.168,
+        "Barley": 0.136,
+        "Oats": 0.165,
+        "Rye": 0.127,
+        "Potatoes": 0.235
+    },
+    {
+        "Year": 1996,
+        "Month": 10,
+        "Wheat": 0.167,
+        "Barley": 0.142,
+        "Oats": 0.157,
+        "Rye": 0.13,
+        "Potatoes": 0.238
+    },
+    {
+        "Year": 1996,
+        "Month": 11,
+        "Wheat": 0.174,
+        "Barley": 0.146,
+        "Oats": 0.163,
+        "Rye": 0.13,
+        "Potatoes": 0.239
+    },
+    {
+        "Year": 1996,
+        "Month": 12,
+        "Wheat": 0.173,
+        "Barley": 0.145,
+        "Oats": 0.157,
+        "Rye": 0.125,
+        "Potatoes": 0.239
+    },
+    {
+        "Year": 1997,
+        "Month": 1,
+        "Wheat": 0.171,
+        "Barley": 0.141,
+        "Oats": 0.161,
+        "Rye": 0.127,
+        "Potatoes": 0.237
+    },
+    {
+        "Year": 1997,
+        "Month": 2,
+        "Wheat": 0.168,
+        "Barley": 0.146,
+        "Oats": 0.16,
+        "Rye": 0.133,
+        "Potatoes": 0.238
+    },
+    {
+        "Year": 1997,
+        "Month": 3,
+        "Wheat": 0.175,
+        "Barley": 0.141,
+        "Oats": 0.164,
+        "Rye": 0.124,
+        "Potatoes": 0.237
+    },
+    {
+        "Year": 1997,
+        "Month": 4,
+        "Wheat": 0.169,
+        "Barley": 0.142,
+        "Oats": 0.162,
+        "Rye": 0.126,
+        "Potatoes": 0.234
+    },
+    {
+        "Year": 1997,
+        "Month": 5,
+        "Wheat": 0.175,
+        "Barley": 0.14,
+        "Oats": 0.161,
+        "Rye": 0.134,
+        "Potatoes": 0.241
+    },
+    {
+        "Year": 1997,
+        "Month": 6,
+        "Wheat": 0.174,
+        "Barley": 0.138,
+        "Oats": 0.158,
+        "Rye": 0.126,
+        "Potatoes": 0.24
+    },
+    {
+        "Year": 1997,
+        "Month": 7,
+        "Wheat": 0.171,
+        "Barley": 0.143,
+        "Oats": 0.166,
+        "Rye": 0.126,
+        "Potatoes": 0.235
+    },
+    {
+        "Year": 1997,
+        "Month": 8,
+        "Wheat": 0.177,
+        "Barley": 0.144,
+        "Oats": 0.167,
+        "Rye": 0.129,
+        "Potatoes": 0.237
+    },
+    {
+        "Year": 1997,
+        "Month": 9,
+        "Wheat": 0.171,
+        "Barley": 0.144,
+        "Oats": 0.161,
+        "Rye": 0.133,
+        "Potatoes": 0.242
+    },
+    {
+        "Year": 1997,
+        "Month": 10,
+        "Wheat": 0.174,
+        "Barley": 0.144,
+        "Oats": 0.167,
+        "Rye": 0.136,
+        "Potatoes": 0.243
+    },
+    {
+        "Year": 1997,
+        "Month": 11,
+        "Wheat": 0.172,
+        "Barley": 0.143,
+        "Oats": 0.167,
+        "Rye": 0.13,
+        "Potatoes": 0.243
+    },
+    {
+        "Year": 1997,
+        "Month": 12,
+        "Wheat": 0.175,
+        "Barley": 0.143,
+        "Oats": 0.164,
+        "Rye": 0.13,
+        "Potatoes": 0.245
+    },
+    {
+        "Year": 1998,
+        "Month": 1,
+        "Wheat": 0.174,
+        "Barley": 0.143,
+        "Oats": 0.169,
+        "Rye": 0.131,
+        "Potatoes": 0.236
+    },
+    {
+        "Year": 1998,
+        "Month": 2,
+        "Wheat": 0.176,
+        "Barley": 0.143,
+        "Oats": 0.165,
+        "Rye": 0.135,
+        "Potatoes": 0.243
+    },
+    {
+        "Year": 1998,
+        "Month": 3,
+        "Wheat": 0.176,
+        "Barley": 0.141,
+        "Oats": 0.168,
+        "Rye": 0.132,
+        "Potatoes": 0.243
+    },
+    {
+        "Year": 1998,
+        "Month": 4,
+        "Wheat": 0.179,
+        "Barley": 0.143,
+        "Oats": 0.163,
+        "Rye": 0.13,
+        "Potatoes": 0.245
+    },
+    {
+        "Year": 1998,
+        "Month": 5,
+        "Wheat": 0.171,
+        "Barley": 0.148,
+        "Oats": 0.165,
+        "Rye": 0.131,
+        "Potatoes": 0.245
+    },
+    {
+        "Year": 1998,
+        "Month": 6,
+        "Wheat": 0.174,
+        "Barley": 0.143,
+        "Oats": 0.163,
+        "Rye": 0.137,
+        "Potatoes": 0.247
+    },
+    {
+        "Year": 1998,
+        "Month": 7,
+        "Wheat": 0.176,
+        "Barley": 0.142,
+        "Oats": 0.168,
+        "Rye": 0.135,
+        "Potatoes": 0.241
+    },
+    {
+        "Year": 1998,
+        "Month": 8,
+        "Wheat": 0.18,
+        "Barley": 0.141,
+        "Oats": 0.165,
+        "Rye": 0.134,
+        "Potatoes": 0.249
+    },
+    {
+        "Year": 1998,
+        "Month": 9,
+        "Wheat": 0.172,
+        "Barley": 0.151,
+        "Oats": 0.166,
+        "Rye": 0.136,
+        "Potatoes": 0.248
+    },
+    {
+        "Year": 1998,
+        "Month": 10,
+        "Wheat": 0.18,
+        "Barley": 0.143,
+        "Oats": 0.169,
+        "Rye": 0.134,
+        "Potatoes": 0.249
+    },
+    {
+        "Year": 1998,
+        "Month": 11,
+        "Wheat": 0.177,
+        "Barley": 0.146,
+        "Oats": 0.168,
+        "Rye": 0.138,
+        "Potatoes": 0.243
+    },
+    {
+        "Year": 1998,
+        "Month": 12,
+        "Wheat": 0.179,
+        "Barley": 0.143,
+        "Oats": 0.163,
+        "Rye": 0.138,
+        "Potatoes": 0.246
+    },
+    {
+        "Year": 1999,
+        "Month": 1,
+        "Wheat": 0.175,
+        "Barley": 0.147,
+        "Oats": 0.169,
+        "Rye": 0.137,
+        "Potatoes": 0.248
+    },
+    {
+        "Year": 1999,
+        "Month": 2,
+        "Wheat": 0.181,
+        "Barley": 0.143,
+        "Oats": 0.172,
+        "Rye": 0.14,
+        "Potatoes": 0.243
+    },
+    {
+        "Year": 1999,
+        "Month": 3,
+        "Wheat": 0.178,
+        "Barley": 0.146,
+        "Oats": 0.167,
+        "Rye": 0.141,
+        "Potatoes": 0.245
+    },
+    {
+        "Year": 1999,
+        "Month": 4,
+        "Wheat": 0.179,
+        "Barley": 0.143,
+        "Oats": 0.17,
+        "Rye": 0.135,
+        "Potatoes": 0.246
+    },
+    {
+        "Year": 1999,
+        "Month": 5,
+        "Wheat": 0.176,
+        "Barley": 0.147,
+        "Oats": 0.164,
+        "Rye": 0.14,
+        "Potatoes": 0.249
+    },
+    {
+        "Year": 1999,
+        "Month": 6,
+        "Wheat": 0.182,
+        "Barley": 0.145,
+        "Oats": 0.172,
+        "Rye": 0.135,
+        "Potatoes": 0.249
+    },
+    {
+        "Year": 1999,
+        "Month": 7,
+        "Wheat": 0.174,
+        "Barley": 0.154,
+        "Oats": 0.164,
+        "Rye": 0.139,
+        "Potatoes": 0.247
+    },
+    {
+        "Year": 1999,
+        "Month": 8,
+        "Wheat": 0.178,
+        "Barley": 0.148,
+        "Oats": 0.165,
+        "Rye": 0.141,
+        "Potatoes": 0.252
+    },
+    {
+        "Year": 1999,
+        "Month": 9,
+        "Wheat": 0.178,
+        "Barley": 0.149,
+        "Oats": 0.172,
+        "Rye": 0.143,
+        "Potatoes": 0.245
+    },
+    {
+        "Year": 1999,
+        "Month": 10,
+        "Wheat": 0.178,
+        "Barley": 0.154,
+        "Oats": 0.174,
+        "Rye": 0.139,
+        "Potatoes": 0.249
+    },
+    {
+        "Year": 1999,
+        "Month": 11,
+        "Wheat": 0.176,
+        "Barley": 0.145,
+        "Oats": 0.165,
+        "Rye": 0.14,
+        "Potatoes": 0.247
+    },
+    {
+        "Year": 1999,
+        "Month": 12,
+        "Wheat": 0.185,
+        "Barley": 0.152,
+        "Oats": 0.168,
+        "Rye": 0.141,
+        "Potatoes": 0.254
+    },
+    {
+        "Year": 2000,
+        "Month": 1,
+        "Wheat": 0.181,
+        "Barley": 0.153,
+        "Oats": 0.166,
+        "Rye": 0.141,
+        "Potatoes": 0.255
+    },
+    {
+        "Year": 2000,
+        "Month": 2,
+        "Wheat": 0.182,
+        "Barley": 0.148,
+        "Oats": 0.168,
+        "Rye": 0.139,
+        "Potatoes": 0.252
+    },
+    {
+        "Year": 2000,
+        "Month": 3,
+        "Wheat": 0.18,
+        "Barley": 0.149,
+        "Oats": 0.169,
+        "Rye": 0.143,
+        "Potatoes": 0.247
+    },
+    {
+        "Year": 2000,
+        "Month": 4,
+        "Wheat": 0.179,
+        "Barley": 0.149,
+        "Oats": 0.175,
+        "Rye": 0.143,
+        "Potatoes": 0.252
+    },
+    {
+        "Year": 2000,
+        "Month": 5,
+        "Wheat": 0.178,
+        "Barley": 0.152,
+        "Oats": 0.171,
+        "Rye": 0.143,
+        "Potatoes": 0.254
+    },
+    {
+        "Year": 2000,
+        "Month": 6,
+        "Wheat": 0.179,
+        "Barley": 0.148,
+        "Oats": 0.176,
+        "Rye": 0.144,
+        "Potatoes": 0.253
+    },
+    {
+        "Year": 2000,
+        "Month": 7,
+        "Wheat": 0.182,
+        "Barley": 0.153,
+        "Oats": 0.177,
+        "Rye": 0.143,
+        "Potatoes": 0.247
+    },
+    {
+        "Year": 2000,
+        "Month": 8,
+        "Wheat": 0.178,
+        "Barley": 0.15,
+        "Oats": 0.175,
+        "Rye": 0.145,
+        "Potatoes": 0.248
+    },
+    {
+        "Year": 2000,
+        "Month": 9,
+        "Wheat": 0.185,
+        "Barley": 0.151,
+        "Oats": 0.173,
+        "Rye": 0.138,
+        "Potatoes": 0.25
+    },
+    {
+        "Year": 2000,
+        "Month": 10,
+        "Wheat": 0.183,
+        "Barley": 0.156,
+        "Oats": 0.168,
+        "Rye": 0.142,
+        "Potatoes": 0.252
+    },
+    {
+        "Year": 2000,
+        "Month": 11,
+        "Wheat": 0.18,
+        "Barley": 0.158,
+        "Oats": 0.176,
+        "Rye": 0.138,
+        "Potatoes": 0.251
+    },
+    {
+        "Year": 2000,
+        "Month": 12,
+        "Wheat": 0.188,
+        "Barley": 0.152,
+        "Oats": 0.176,
+        "Rye": 0.147,
+        "Potatoes": 0.252
+    },
+    {
+        "Year": 2001,
+        "Month": 1,
+        "Wheat": 0.187,
+        "Barley": 0.148,
+        "Oats": 0.174,
+        "Rye": 0.14,
+        "Potatoes": 0.251
+    },
+    {
+        "Year": 2001,
+        "Month": 2,
+        "Wheat": 0.183,
+        "Barley": 0.153,
+        "Oats": 0.172,
+        "Rye": 0.145,
+        "Potatoes": 0.256
+    },
+    {
+        "Year": 2001,
+        "Month": 3,
+        "Wheat": 0.188,
+        "Barley": 0.153,
+        "Oats": 0.177,
+        "Rye": 0.144,
+        "Potatoes": 0.25
+    },
+    {
+        "Year": 2001,
+        "Month": 4,
+        "Wheat": 0.181,
+        "Barley": 0.15,
+        "Oats": 0.171,
+        "Rye": 0.146,
+        "Potatoes": 0.258
+    },
+    {
+        "Year": 2001,
+        "Month": 5,
+        "Wheat": 0.182,
+        "Barley": 0.152,
+        "Oats": 0.173,
+        "Rye": 0.147,
+        "Potatoes": 0.251
+    },
+    {
+        "Year": 2001,
+        "Month": 6,
+        "Wheat": 0.184,
+        "Barley": 0.155,
+        "Oats": 0.172,
+        "Rye": 0.14,
+        "Potatoes": 0.257
+    },
+    {
+        "Year": 2001,
+        "Month": 7,
+        "Wheat": 0.181,
+        "Barley": 0.153,
+        "Oats": 0.175,
+        "Rye": 0.144,
+        "Potatoes": 0.253
+    },
+    {
+        "Year": 2001,
+        "Month": 8,
+        "Wheat": 0.188,
+        "Barley": 0.156,
+        "Oats": 0.175,
+        "Rye": 0.15,
+        "Potatoes": 0.252
+    },
+    {
+        "Year": 2001,
+        "Month": 9,
+        "Wheat": 0.184,
+        "Barley": 0.15,
+        "Oats": 0.178,
+        "Rye": 0.143,
+        "Potatoes": 0.259
+    },
+    {
+        "Year": 2001,
+        "Month": 10,
+        "Wheat": 0.184,
+        "Barley": 0.157,
+        "Oats": 0.179,
+        "Rye": 0.142,
+        "Potatoes": 0.255
+    },
+    {
+        "Year": 2001,
+        "Month": 11,
+        "Wheat": 0.188,
+        "Barley": 0.159,
+        "Oats": 0.172,
+        "Rye": 0.148,
+        "Potatoes": 0.258
+    },
+    {
+        "Year": 2001,
+        "Month": 12,
+        "Wheat": 0.19,
+        "Barley": 0.16,
+        "Oats": 0.172,
+        "Rye": 0.142,
+        "Potatoes": 0.255
+    },
+    {
+        "Year": 2002,
+        "Month": 1,
+        "Wheat": 0.189,
+        "Barley": 0.153,
+        "Oats": 0.176,
+        "Rye": 0.146,
+        "Potatoes": 0.259
+    },
+    {
+        "Year": 2002,
+        "Month": 2,
+        "Wheat": 0.188,
+        "Barley": 0.153,
+        "Oats": 0.177,
+        "Rye": 0.145,
+        "Potatoes": 0.261
+    },
+    {
+        "Year": 2002,
+        "Month": 3,
+        "Wheat": 0.185,
+        "Barley": 0.161,
+        "Oats": 0.172,
+        "Rye": 0.148,
+        "Potatoes": 0.257
+    },
+    {
+        "Year": 2002,
+        "Month": 4,
+        "Wheat": 0.185,
+        "Barley": 0.152,
+        "Oats": 0.173,
+        "Rye": 0.143,
+        "Potatoes": 0.26
+    },
+    {
+        "Year": 2002,
+        "Month": 5,
+        "Wheat": 0.182,
+        "Barley": 0.156,
+        "Oats": 0.177,
+        "Rye": 0.143,
+        "Potatoes": 0.262
+    },
+    {
+        "Year": 2002,
+        "Month": 6,
+        "Wheat": 0.189,
+        "Barley": 0.158,
+        "Oats": 0.173,
+        "Rye": 0.143,
+        "Potatoes": 0.263
+    },
+    {
+        "Year": 2002,
+        "Month": 7,
+        "Wheat": 0.192,
+        "Barley": 0.162,
+        "Oats": 0.175,
+        "Rye": 0.143,
+        "Potatoes": 0.259
+    },
+    {
+        "Year": 2002,
+        "Month": 8,
+        "Wheat": 0.191,
+        "Barley": 0.156,
+        "Oats": 0.182,
+        "Rye": 0.146,
+        "Potatoes": 0.265
+    },
+    {
+        "Year": 2002,
+        "Month": 9,
+        "Wheat": 0.191,
+        "Barley": 0.157,
+        "Oats": 0.175,
+        "Rye": 0.151,
+        "Potatoes": 0.261
+    },
+    {
+        "Year": 2002,
+        "Month": 10,
+        "Wheat": 0.188,
+        "Barley": 0.163,
+        "Oats": 0.181,
+        "Rye": 0.145,
+        "Potatoes": 0.257
+    },
+    {
+        "Year": 2002,
+        "Month": 11,
+        "Wheat": 0.189,
+        "Barley": 0.162,
+        "Oats": 0.182,
+        "Rye": 0.144,
+        "Potatoes": 0.266
+    },
+    {
+        "Year": 2002,
+        "Month": 12,
+        "Wheat": 0.186,
+        "Barley": 0.158,
+        "Oats": 0.179,
+        "Rye": 0.144,
+        "Potatoes": 0.264
+    },
+    {
+        "Year": 2003,
+        "Month": 1,
+        "Wheat": 0.187,
+        "Barley": 0.157,
+        "Oats": 0.177,
+        "Rye": 0.145,
+        "Potatoes": 0.267
+    },
+    {
+        "Year": 2003,
+        "Month": 2,
+        "Wheat": 0.185,
+        "Barley": 0.155,
+        "Oats": 0.182,
+        "Rye": 0.146,
+        "Potatoes": 0.265
+    },
+    {
+        "Year": 2003,
+        "Month": 3,
+        "Wheat": 0.187,
+        "Barley": 0.16,
+        "Oats": 0.184,
+        "Rye": 0.146,
+        "Potatoes": 0.266
+    },
+    {
+        "Year": 2003,
+        "Month": 4,
+        "Wheat": 0.19,
+        "Barley": 0.156,
+        "Oats": 0.18,
+        "Rye": 0.148,
+        "Potatoes": 0.261
+    },
+    {
+        "Year": 2003,
+        "Month": 5,
+        "Wheat": 0.189,
+        "Barley": 0.163,
+        "Oats": 0.178,
+        "Rye": 0.151,
+        "Potatoes": 0.267
+    },
+    {
+        "Year": 2003,
+        "Month": 6,
+        "Wheat": 0.188,
+        "Barley": 0.157,
+        "Oats": 0.185,
+        "Rye": 0.147,
+        "Potatoes": 0.265
+    },
+    {
+        "Year": 2003,
+        "Month": 7,
+        "Wheat": 0.186,
+        "Barley": 0.156,
+        "Oats": 0.18,
+        "Rye": 0.147,
+        "Potatoes": 0.262
+    },
+    {
+        "Year": 2003,
+        "Month": 8,
+        "Wheat": 0.194,
+        "Barley": 0.163,
+        "Oats": 0.185,
+        "Rye": 0.146,
+        "Potatoes": 0.265
+    },
+    {
+        "Year": 2003,
+        "Month": 9,
+        "Wheat": 0.192,
+        "Barley": 0.158,
+        "Oats": 0.185,
+        "Rye": 0.151,
+        "Potatoes": 0.262
+    },
+    {
+        "Year": 2003,
+        "Month": 10,
+        "Wheat": 0.193,
+        "Barley": 0.158,
+        "Oats": 0.181,
+        "Rye": 0.155,
+        "Potatoes": 0.267
+    },
+    {
+        "Year": 2003,
+        "Month": 11,
+        "Wheat": 0.191,
+        "Barley": 0.165,
+        "Oats": 0.186,
+        "Rye": 0.151,
+        "Potatoes": 0.265
+    },
+    {
+        "Year": 2003,
+        "Month": 12,
+        "Wheat": 0.197,
+        "Barley": 0.164,
+        "Oats": 0.178,
+        "Rye": 0.149,
+        "Potatoes": 0.263
+    },
+    {
+        "Year": 2004,
+        "Month": 1,
+        "Wheat": 0.188,
+        "Barley": 0.163,
+        "Oats": 0.183,
+        "Rye": 0.152,
+        "Potatoes": 0.269
+    },
+    {
+        "Year": 2004,
+        "Month": 2,
+        "Wheat": 0.191,
+        "Barley": 0.161,
+        "Oats": 0.181,
+        "Rye": 0.149,
+        "Potatoes": 0.267
+    },
+    {
+        "Year": 2004,
+        "Month": 3,
+        "Wheat": 0.193,
+        "Barley": 0.162,
+        "Oats": 0.184,
+        "Rye": 0.148,
+        "Potatoes": 0.269
+    },
+    {
+        "Year": 2004,
+        "Month": 4,
+        "Wheat": 0.193,
+        "Barley": 0.163,
+        "Oats": 0.18,
+        "Rye": 0.148,
+        "Potatoes": 0.264
+    },
+    {
+        "Year": 2004,
+        "Month": 5,
+        "Wheat": 0.197,
+        "Barley": 0.159,
+        "Oats": 0.182,
+        "Rye": 0.157,
+        "Potatoes": 0.27
+    },
+    {
+        "Year": 2004,
+        "Month": 6,
+        "Wheat": 0.194,
+        "Barley": 0.161,
+        "Oats": 0.186,
+        "Rye": 0.152,
+        "Potatoes": 0.265
+    },
+    {
+        "Year": 2004,
+        "Month": 7,
+        "Wheat": 0.191,
+        "Barley": 0.162,
+        "Oats": 0.183,
+        "Rye": 0.157,
+        "Potatoes": 0.265
+    },
+    {
+        "Year": 2004,
+        "Month": 8,
+        "Wheat": 0.193,
+        "Barley": 0.16,
+        "Oats": 0.186,
+        "Rye": 0.155,
+        "Potatoes": 0.271
+    },
+    {
+        "Year": 2004,
+        "Month": 9,
+        "Wheat": 0.191,
+        "Barley": 0.168,
+        "Oats": 0.184,
+        "Rye": 0.155,
+        "Potatoes": 0.269
+    },
+    {
+        "Year": 2004,
+        "Month": 10,
+        "Wheat": 0.19,
+        "Barley": 0.167,
+        "Oats": 0.184,
+        "Rye": 0.15,
+        "Potatoes": 0.272
+    },
+    {
+        "Year": 2004,
+        "Month": 11,
+        "Wheat": 0.191,
+        "Barley": 0.165,
+        "Oats": 0.183,
+        "Rye": 0.155,
+        "Potatoes": 0.272
+    },
+    {
+        "Year": 2004,
+        "Month": 12,
+        "Wheat": 0.191,
+        "Barley": 0.164,
+        "Oats": 0.183,
+        "Rye": 0.158,
+        "Potatoes": 0.267
+    },
+    {
+        "Year": 2005,
+        "Month": 1,
+        "Wheat": 0.198,
+        "Barley": 0.165,
+        "Oats": 0.188,
+        "Rye": 0.153,
+        "Potatoes": 0.269
+    },
+    {
+        "Year": 2005,
+        "Month": 2,
+        "Wheat": 0.2,
+        "Barley": 0.162,
+        "Oats": 0.189,
+        "Rye": 0.159,
+        "Potatoes": 0.275
+    },
+    {
+        "Year": 2005,
+        "Month": 3,
+        "Wheat": 0.195,
+        "Barley": 0.169,
+        "Oats": 0.186,
+        "Rye": 0.159,
+        "Potatoes": 0.272
+    },
+    {
+        "Year": 2005,
+        "Month": 4,
+        "Wheat": 0.193,
+        "Barley": 0.162,
+        "Oats": 0.187,
+        "Rye": 0.16,
+        "Potatoes": 0.274
+    },
+    {
+        "Year": 2005,
+        "Month": 5,
+        "Wheat": 0.199,
+        "Barley": 0.164,
+        "Oats": 0.182,
+        "Rye": 0.155,
+        "Potatoes": 0.275
+    },
+    {
+        "Year": 2005,
+        "Month": 6,
+        "Wheat": 0.192,
+        "Barley": 0.167,
+        "Oats": 0.183,
+        "Rye": 0.156,
+        "Potatoes": 0.268
+    },
+    {
+        "Year": 2005,
+        "Month": 7,
+        "Wheat": 0.199,
+        "Barley": 0.169,
+        "Oats": 0.185,
+        "Rye": 0.157,
+        "Potatoes": 0.267
+    },
+    {
+        "Year": 2005,
+        "Month": 8,
+        "Wheat": 0.193,
+        "Barley": 0.166,
+        "Oats": 0.19,
+        "Rye": 0.155,
+        "Potatoes": 0.272
+    },
+    {
+        "Year": 2005,
+        "Month": 9,
+        "Wheat": 0.2,
+        "Barley": 0.165,
+        "Oats": 0.192,
+        "Rye": 0.154,
+        "Potatoes": 0.272
+    },
+    {
+        "Year": 2005,
+        "Month": 10,
+        "Wheat": 0.194,
+        "Barley": 0.168,
+        "Oats": 0.192,
+        "Rye": 0.159,
+        "Potatoes": 0.27
+    },
+    {
+        "Year": 2005,
+        "Month": 11,
+        "Wheat": 0.201,
+        "Barley": 0.168,
+        "Oats": 0.19,
+        "Rye": 0.159,
+        "Potatoes": 0.274
+    },
+    {
+        "Year": 2005,
+        "Month": 12,
+        "Wheat": 0.199,
+        "Barley": 0.168,
+        "Oats": 0.186,
+        "Rye": 0.16,
+        "Potatoes": 0.27
+    },
+    {
+        "Year": 2006,
+        "Month": 1,
+        "Wheat": 0.196,
+        "Barley": 0.166,
+        "Oats": 0.191,
+        "Rye": 0.156,
+        "Potatoes": 0.272
+    },
+    {
+        "Year": 2006,
+        "Month": 2,
+        "Wheat": 0.198,
+        "Barley": 0.168,
+        "Oats": 0.188,
+        "Rye": 0.16,
+        "Potatoes": 0.27
+    },
+    {
+        "Year": 2006,
+        "Month": 3,
+        "Wheat": 0.201,
+        "Barley": 0.167,
+        "Oats": 0.191,
+        "Rye": 0.157,
+        "Potatoes": 0.279
+    },
+    {
+        "Year": 2006,
+        "Month": 4,
+        "Wheat": 0.202,
+        "Barley": 0.167,
+        "Oats": 0.194,
+        "Rye": 0.156,
+        "Potatoes": 0.276
+    },
+    {
+        "Year": 2006,
+        "Month": 5,
+        "Wheat": 0.194,
+        "Barley": 0.165,
+        "Oats": 0.189,
+        "Rye": 0.154,
+        "Potatoes": 0.276
+    },
+    {
+        "Year": 2006,
+        "Month": 6,
+        "Wheat": 0.198,
+        "Barley": 0.167,
+        "Oats": 0.192,
+        "Rye": 0.156,
+        "Potatoes": 0.274
+    },
+    {
+        "Year": 2006,
+        "Month": 7,
+        "Wheat": 0.199,
+        "Barley": 0.172,
+        "Oats": 0.186,
+        "Rye": 0.163,
+        "Potatoes": 0.273
+    },
+    {
+        "Year": 2006,
+        "Month": 8,
+        "Wheat": 0.199,
+        "Barley": 0.172,
+        "Oats": 0.193,
+        "Rye": 0.16,
+        "Potatoes": 0.28
+    },
+    {
+        "Year": 2006,
+        "Month": 9,
+        "Wheat": 0.2,
+        "Barley": 0.166,
+        "Oats": 0.192,
+        "Rye": 0.16,
+        "Potatoes": 0.279
+    },
+    {
+        "Year": 2006,
+        "Month": 10,
+        "Wheat": 0.198,
+        "Barley": 0.174,
+        "Oats": 0.186,
+        "Rye": 0.162,
+        "Potatoes": 0.274
+    },
+    {
+        "Year": 2006,
+        "Month": 11,
+        "Wheat": 0.201,
+        "Barley": 0.169,
+        "Oats": 0.189,
+        "Rye": 0.166,
+        "Potatoes": 0.281
+    },
+    {
+        "Year": 2006,
+        "Month": 12,
+        "Wheat": 0.205,
+        "Barley": 0.169,
+        "Oats": 0.188,
+        "Rye": 0.157,
+        "Potatoes": 0.277
+    },
+    {
+        "Year": 2007,
+        "Month": 1,
+        "Wheat": 0.205,
+        "Barley": 0.175,
+        "Oats": 0.193,
+        "Rye": 0.162,
+        "Potatoes": 0.276
+    },
+    {
+        "Year": 2007,
+        "Month": 2,
+        "Wheat": 0.198,
+        "Barley": 0.167,
+        "Oats": 0.191,
+        "Rye": 0.166,
+        "Potatoes": 0.282
+    },
+    {
+        "Year": 2007,
+        "Month": 3,
+        "Wheat": 0.2,
+        "Barley": 0.167,
+        "Oats": 0.194,
+        "Rye": 0.165,
+        "Potatoes": 0.278
+    },
+    {
+        "Year": 2007,
+        "Month": 4,
+        "Wheat": 0.206,
+        "Barley": 0.175,
+        "Oats": 0.191,
+        "Rye": 0.157,
+        "Potatoes": 0.279
+    },
+    {
+        "Year": 2007,
+        "Month": 5,
+        "Wheat": 0.201,
+        "Barley": 0.176,
+        "Oats": 0.191,
+        "Rye": 0.158,
+        "Potatoes": 0.283
+    },
+    {
+        "Year": 2007,
+        "Month": 6,
+        "Wheat": 0.199,
+        "Barley": 0.176,
+        "Oats": 0.19,
+        "Rye": 0.16,
+        "Potatoes": 0.28
+    },
+    {
+        "Year": 2007,
+        "Month": 7,
+        "Wheat": 0.199,
+        "Barley": 0.169,
+        "Oats": 0.192,
+        "Rye": 0.161,
+        "Potatoes": 0.28
+    },
+    {
+        "Year": 2007,
+        "Month": 8,
+        "Wheat": 0.198,
+        "Barley": 0.176,
+        "Oats": 0.196,
+        "Rye": 0.159,
+        "Potatoes": 0.281
+    },
+    {
+        "Year": 2007,
+        "Month": 9,
+        "Wheat": 0.208,
+        "Barley": 0.169,
+        "Oats": 0.196,
+        "Rye": 0.168,
+        "Potatoes": 0.283
+    },
+    {
+        "Year": 2007,
+        "Month": 10,
+        "Wheat": 0.2,
+        "Barley": 0.169,
+        "Oats": 0.196,
+        "Rye": 0.161,
+        "Potatoes": 0.283
+    },
+    {
+        "Year": 2007,
+        "Month": 11,
+        "Wheat": 0.2,
+        "Barley": 0.178,
+        "Oats": 0.197,
+        "Rye": 0.159,
+        "Potatoes": 0.281
+    },
+    {
+        "Year": 2007,
+        "Month": 12,
+        "Wheat": 0.2,
+        "Barley": 0.173,
+        "Oats": 0.19,
+        "Rye": 0.164,
+        "Potatoes": 0.278
+    },
+    {
+        "Year": 2008,
+        "Month": 1,
+        "Wheat": 0.208,
+        "Barley": 0.174,
+        "Oats": 0.193,
+        "Rye": 0.161,
+        "Potatoes": 0.278
+    },
+    {
+        "Year": 2008,
+        "Month": 2,
+        "Wheat": 0.202,
+        "Barley": 0.177,
+        "Oats": 0.193,
+        "Rye": 0.161,
+        "Potatoes": 0.284
+    },
+    {
+        "Year": 2008,
+        "Month": 3,
+        "Wheat": 0.209,
+        "Barley": 0.177,
+        "Oats": 0.197,
+        "Rye": 0.166,
+        "Potatoes": 0.282
+    },
+    {
+        "Year": 2008,
+        "Month": 4,
+        "Wheat": 0.206,
+        "Barley": 0.178,
+        "Oats": 0.198,
+        "Rye": 0.164,
+        "Potatoes": 0.287
+    },
+    {
+        "Year": 2008,
+        "Month": 5,
+        "Wheat": 0.203,
+        "Barley": 0.176,
+        "Oats": 0.193,
+        "Rye": 0.165,
+        "Potatoes": 0.284
+    },
+    {
+        "Year": 2008,
+        "Month": 6,
+        "Wheat": 0.207,
+        "Barley": 0.171,
+        "Oats": 0.2,
+        "Rye": 0.162,
+        "Potatoes": 0.28
+    },
+    {
+        "Year": 2008,
+        "Month": 7,
+        "Wheat": 0.206,
+        "Barley": 0.175,
+        "Oats": 0.2,
+        "Rye": 0.163,
+        "Potatoes": 0.283
+    },
+    {
+        "Year": 2008,
+        "Month": 8,
+        "Wheat": 0.201,
+        "Barley": 0.176,
+        "Oats": 0.196,
+        "Rye": 0.17,
+        "Potatoes": 0.288
+    },
+    {
+        "Year": 2008,
+        "Month": 9,
+        "Wheat": 0.205,
+        "Barley": 0.179,
+        "Oats": 0.198,
+        "Rye": 0.166,
+        "Potatoes": 0.286
+    },
+    {
+        "Year": 2008,
+        "Month": 10,
+        "Wheat": 0.202,
+        "Barley": 0.177,
+        "Oats": 0.197,
+        "Rye": 0.166,
+        "Potatoes": 0.29
+    },
+    {
+        "Year": 2008,
+        "Month": 11,
+        "Wheat": 0.212,
+        "Barley": 0.181,
+        "Oats": 0.196,
+        "Rye": 0.168,
+        "Potatoes": 0.288
+    },
+    {
+        "Year": 2008,
+        "Month": 12,
+        "Wheat": 0.204,
+        "Barley": 0.178,
+        "Oats": 0.199,
+        "Rye": 0.168,
+        "Potatoes": 0.283
+    },
+    {
+        "Year": 2009,
+        "Month": 1,
+        "Wheat": 0.204,
+        "Barley": 0.178,
+        "Oats": 0.199,
+        "Rye": 0.163,
+        "Potatoes": 0.284
+    },
+    {
+        "Year": 2009,
+        "Month": 2,
+        "Wheat": 0.205,
+        "Barley": 0.182,
+        "Oats": 0.199,
+        "Rye": 0.163,
+        "Potatoes": 0.287
+    },
+    {
+        "Year": 2009,
+        "Month": 3,
+        "Wheat": 0.207,
+        "Barley": 0.173,
+        "Oats": 0.197,
+        "Rye": 0.165,
+        "Potatoes": 0.287
+    },
+    {
+        "Year": 2009,
+        "Month": 4,
+        "Wheat": 0.212,
+        "Barley": 0.178,
+        "Oats": 0.194,
+        "Rye": 0.168,
+        "Potatoes": 0.287
+    },
+    {
+        "Year": 2009,
+        "Month": 5,
+        "Wheat": 0.212,
+        "Barley": 0.18,
+        "Oats": 0.195,
+        "Rye": 0.163,
+        "Potatoes": 0.288
+    },
+    {
+        "Year": 2009,
+        "Month": 6,
+        "Wheat": 0.204,
+        "Barley": 0.177,
+        "Oats": 0.195,
+        "Rye": 0.173,
+        "Potatoes": 0.284
+    },
+    {
+        "Year": 2009,
+        "Month": 7,
+        "Wheat": 0.208,
+        "Barley": 0.18,
+        "Oats": 0.195,
+        "Rye": 0.173,
+        "Potatoes": 0.283
+    },
+    {
+        "Year": 2009,
+        "Month": 8,
+        "Wheat": 0.212,
+        "Barley": 0.179,
+        "Oats": 0.2,
+        "Rye": 0.171,
+        "Potatoes": 0.29
+    },
+    {
+        "Year": 2009,
+        "Month": 9,
+        "Wheat": 0.21,
+        "Barley": 0.182,
+        "Oats": 0.202,
+        "Rye": 0.167,
+        "Potatoes": 0.285
+    },
+    {
+        "Year": 2009,
+        "Month": 10,
+        "Wheat": 0.213,
+        "Barley": 0.177,
+        "Oats": 0.198,
+        "Rye": 0.168,
+        "Potatoes": 0.289
+    },
+    {
+        "Year": 2009,
+        "Month": 11,
+        "Wheat": 0.206,
+        "Barley": 0.182,
+        "Oats": 0.201,
+        "Rye": 0.171,
+        "Potatoes": 0.287
+    },
+    {
+        "Year": 2009,
+        "Month": 12,
+        "Wheat": 0.208,
+        "Barley": 0.183,
+        "Oats": 0.197,
+        "Rye": 0.172,
+        "Potatoes": 0.29
+    },
+    {
+        "Year": 2010,
+        "Month": 1,
+        "Wheat": 0.21,
+        "Barley": 0.185,
+        "Oats": 0.205,
+        "Rye": 0.172,
+        "Potatoes": 0.289
+    },
+    {
+        "Year": 2010,
+        "Month": 2,
+        "Wheat": 0.207,
+        "Barley": 0.182,
+        "Oats": 0.205,
+        "Rye": 0.174,
+        "Potatoes": 0.295
+    },
+    {
+        "Year": 2010,
+        "Month": 3,
+        "Wheat": 0.214,
+        "Barley": 0.185,
+        "Oats": 0.202,
+        "Rye": 0.167,
+        "Potatoes": 0.288
+    },
+    {
+        "Year": 2010,
+        "Month": 4,
+        "Wheat": 0.207,
+        "Barley": 0.184,
+        "Oats": 0.2,
+        "Rye": 0.176,
+        "Potatoes": 0.294
+    },
+    {
+        "Year": 2010,
+        "Month": 5,
+        "Wheat": 0.205,
+        "Barley": 0.179,
+        "Oats": 0.207,
+        "Rye": 0.167,
+        "Potatoes": 0.291
+    },
+    {
+        "Year": 2010,
+        "Month": 6,
+        "Wheat": 0.215,
+        "Barley": 0.182,
+        "Oats": 0.206,
+        "Rye": 0.176,
+        "Potatoes": 0.293
+    },
+    {
+        "Year": 2010,
+        "Month": 7,
+        "Wheat": 0.211,
+        "Barley": 0.176,
+        "Oats": 0.206,
+        "Rye": 0.176,
+        "Potatoes": 0.295
+    },
+    {
+        "Year": 2010,
+        "Month": 8,
+        "Wheat": 0.214,
+        "Barley": 0.177,
+        "Oats": 0.207,
+        "Rye": 0.174,
+        "Potatoes": 0.288
+    },
+    {
+        "Year": 2010,
+        "Month": 9,
+        "Wheat": 0.212,
+        "Barley": 0.176,
+        "Oats": 0.206,
+        "Rye": 0.168,
+        "Potatoes": 0.288
+    },
+    {
+        "Year": 2010,
+        "Month": 10,
+        "Wheat": 0.207,
+        "Barley": 0.181,
+        "Oats": 0.201,
+        "Rye": 0.173,
+        "Potatoes": 0.289
+    },
+    {
+        "Year": 2010,
+        "Month": 11,
+        "Wheat": 0.212,
+        "Barley": 0.177,
+        "Oats": 0.2,
+        "Rye": 0.168,
+        "Potatoes": 0.294
+    },
+    {
+        "Year": 2010,
+        "Month": 12,
+        "Wheat": 0.207,
+        "Barley": 0.179,
+        "Oats": 0.21,
+        "Rye": 0.176,
+        "Potatoes": 0.289
+    },
+    {
+        "Year": 2011,
+        "Month": 1,
+        "Wheat": 0.206,
+        "Barley": 0.181,
+        "Oats": 0.206,
+        "Rye": 0.169,
+        "Potatoes": 0.293
+    },
+    {
+        "Year": 2011,
+        "Month": 2,
+        "Wheat": 0.212,
+        "Barley": 0.182,
+        "Oats": 0.201,
+        "Rye": 0.17,
+        "Potatoes": 0.29
+    },
+    {
+        "Year": 2011,
+        "Month": 3,
+        "Wheat": 0.21,
+        "Barley": 0.185,
+        "Oats": 0.205,
+        "Rye": 0.169,
+        "Potatoes": 0.295
+    },
+    {
+        "Year": 2011,
+        "Month": 4,
+        "Wheat": 0.21,
+        "Barley": 0.177,
+        "Oats": 0.202,
+        "Rye": 0.17,
+        "Potatoes": 0.288
+    },
+    {
+        "Year": 2011,
+        "Month": 5,
+        "Wheat": 0.207,
+        "Barley": 0.181,
+        "Oats": 0.202,
+        "Rye": 0.172,
+        "Potatoes": 0.287
+    },
+    {
+        "Year": 2011,
+        "Month": 6,
+        "Wheat": 0.209,
+        "Barley": 0.181,
+        "Oats": 0.202,
+        "Rye": 0.177,
+        "Potatoes": 0.293
+    },
+    {
+        "Year": 2011,
+        "Month": 7,
+        "Wheat": 0.212,
+        "Barley": 0.186,
+        "Oats": 0.203,
+        "Rye": 0.177,
+        "Potatoes": 0.294
+    },
+    {
+        "Year": 2011,
+        "Month": 8,
+        "Wheat": 0.213,
+        "Barley": 0.178,
+        "Oats": 0.21,
+        "Rye": 0.175,
+        "Potatoes": 0.288
+    },
+    {
+        "Year": 2011,
+        "Month": 9,
+        "Wheat": 0.213,
+        "Barley": 0.179,
+        "Oats": 0.21,
+        "Rye": 0.173,
+        "Potatoes": 0.288
+    },
+    {
+        "Year": 2011,
+        "Month": 10,
+        "Wheat": 0.213,
+        "Barley": 0.18,
+        "Oats": 0.214,
+        "Rye": 0.18,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2011,
+        "Month": 11,
+        "Wheat": 0.216,
+        "Barley": 0.186,
+        "Oats": 0.21,
+        "Rye": 0.18,
+        "Potatoes": 0.293
+    },
+    {
+        "Year": 2011,
+        "Month": 12,
+        "Wheat": 0.216,
+        "Barley": 0.185,
+        "Oats": 0.213,
+        "Rye": 0.175,
+        "Potatoes": 0.294
+    },
+    {
+        "Year": 2012,
+        "Month": 1,
+        "Wheat": 0.208,
+        "Barley": 0.178,
+        "Oats": 0.207,
+        "Rye": 0.176,
+        "Potatoes": 0.29
+    },
+    {
+        "Year": 2012,
+        "Month": 2,
+        "Wheat": 0.21,
+        "Barley": 0.183,
+        "Oats": 0.207,
+        "Rye": 0.181,
+        "Potatoes": 0.294
+    },
+    {
+        "Year": 2012,
+        "Month": 3,
+        "Wheat": 0.207,
+        "Barley": 0.185,
+        "Oats": 0.211,
+        "Rye": 0.172,
+        "Potatoes": 0.29
+    },
+    {
+        "Year": 2012,
+        "Month": 4,
+        "Wheat": 0.211,
+        "Barley": 0.182,
+        "Oats": 0.207,
+        "Rye": 0.174,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2012,
+        "Month": 5,
+        "Wheat": 0.214,
+        "Barley": 0.186,
+        "Oats": 0.214,
+        "Rye": 0.179,
+        "Potatoes": 0.293
+    },
+    {
+        "Year": 2012,
+        "Month": 6,
+        "Wheat": 0.21,
+        "Barley": 0.18,
+        "Oats": 0.214,
+        "Rye": 0.175,
+        "Potatoes": 0.289
+    },
+    {
+        "Year": 2012,
+        "Month": 7,
+        "Wheat": 0.213,
+        "Barley": 0.187,
+        "Oats": 0.215,
+        "Rye": 0.18,
+        "Potatoes": 0.289
+    },
+    {
+        "Year": 2012,
+        "Month": 8,
+        "Wheat": 0.213,
+        "Barley": 0.184,
+        "Oats": 0.209,
+        "Rye": 0.181,
+        "Potatoes": 0.288
+    },
+    {
+        "Year": 2012,
+        "Month": 9,
+        "Wheat": 0.214,
+        "Barley": 0.184,
+        "Oats": 0.216,
+        "Rye": 0.178,
+        "Potatoes": 0.289
+    },
+    {
+        "Year": 2012,
+        "Month": 10,
+        "Wheat": 0.217,
+        "Barley": 0.18,
+        "Oats": 0.21,
+        "Rye": 0.183,
+        "Potatoes": 0.291
+    },
+    {
+        "Year": 2012,
+        "Month": 11,
+        "Wheat": 0.216,
+        "Barley": 0.185,
+        "Oats": 0.213,
+        "Rye": 0.177,
+        "Potatoes": 0.293
+    },
+    {
+        "Year": 2012,
+        "Month": 12,
+        "Wheat": 0.217,
+        "Barley": 0.183,
+        "Oats": 0.21,
+        "Rye": 0.18,
+        "Potatoes": 0.291
+    },
+    {
+        "Year": 2013,
+        "Month": 1,
+        "Wheat": 0.217,
+        "Barley": 0.185,
+        "Oats": 0.214,
+        "Rye": 0.176,
+        "Potatoes": 0.295
+    },
+    {
+        "Year": 2013,
+        "Month": 2,
+        "Wheat": 0.21,
+        "Barley": 0.184,
+        "Oats": 0.218,
+        "Rye": 0.184,
+        "Potatoes": 0.294
+    },
+    {
+        "Year": 2013,
+        "Month": 3,
+        "Wheat": 0.212,
+        "Barley": 0.18,
+        "Oats": 0.215,
+        "Rye": 0.177,
+        "Potatoes": 0.289
+    },
+    {
+        "Year": 2013,
+        "Month": 4,
+        "Wheat": 0.211,
+        "Barley": 0.185,
+        "Oats": 0.212,
+        "Rye": 0.184,
+        "Potatoes": 0.296
+    },
+    {
+        "Year": 2013,
+        "Month": 5,
+        "Wheat": 0.209,
+        "Barley": 0.18,
+        "Oats": 0.22,
+        "Rye": 0.179,
+        "Potatoes": 0.291
+    },
+    {
+        "Year": 2013,
+        "Month": 6,
+        "Wheat": 0.217,
+        "Barley": 0.188,
+        "Oats": 0.213,
+        "Rye": 0.177,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2013,
+        "Month": 7,
+        "Wheat": 0.217,
+        "Barley": 0.182,
+        "Oats": 0.222,
+        "Rye": 0.183,
+        "Potatoes": 0.292
+    },
+    {
+        "Year": 2013,
+        "Month": 8,
+        "Wheat": 0.212,
+        "Barley": 0.184,
+        "Oats": 0.22,
+        "Rye": 0.18,
+        "Potatoes": 0.292
+    },
+    {
+        "Year": 2013,
+        "Month": 9,
+        "Wheat": 0.215,
+        "Barley": 0.185,
+        "Oats": 0.216,
+        "Rye": 0.18,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2013,
+        "Month": 10,
+        "Wheat": 0.218,
+        "Barley": 0.183,
+        "Oats": 0.216,
+        "Rye": 0.184,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2013,
+        "Month": 11,
+        "Wheat": 0.214,
+        "Barley": 0.189,
+        "Oats": 0.221,
+        "Rye": 0.179,
+        "Potatoes": 0.291
+    },
+    {
+        "Year": 2013,
+        "Month": 12,
+        "Wheat": 0.218,
+        "Barley": 0.187,
+        "Oats": 0.22,
+        "Rye": 0.184,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2014,
+        "Month": 1,
+        "Wheat": 0.215,
+        "Barley": 0.183,
+        "Oats": 0.218,
+        "Rye": 0.179,
+        "Potatoes": 0.294
+    },
+    {
+        "Year": 2014,
+        "Month": 2,
+        "Wheat": 0.21,
+        "Barley": 0.179,
+        "Oats": 0.216,
+        "Rye": 0.185,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2014,
+        "Month": 3,
+        "Wheat": 0.213,
+        "Barley": 0.18,
+        "Oats": 0.219,
+        "Rye": 0.18,
+        "Potatoes": 0.293
+    },
+    {
+        "Year": 2014,
+        "Month": 4,
+        "Wheat": 0.21,
+        "Barley": 0.18,
+        "Oats": 0.225,
+        "Rye": 0.186,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2014,
+        "Month": 5,
+        "Wheat": 0.211,
+        "Barley": 0.187,
+        "Oats": 0.223,
+        "Rye": 0.182,
+        "Potatoes": 0.292
+    },
+    {
+        "Year": 2014,
+        "Month": 6,
+        "Wheat": 0.215,
+        "Barley": 0.181,
+        "Oats": 0.219,
+        "Rye": 0.179,
+        "Potatoes": 0.295
+    },
+    {
+        "Year": 2014,
+        "Month": 7,
+        "Wheat": 0.219,
+        "Barley": 0.183,
+        "Oats": 0.225,
+        "Rye": 0.18,
+        "Potatoes": 0.299
+    },
+    {
+        "Year": 2014,
+        "Month": 8,
+        "Wheat": 0.217,
+        "Barley": 0.184,
+        "Oats": 0.227,
+        "Rye": 0.185,
+        "Potatoes": 0.291
+    },
+    {
+        "Year": 2014,
+        "Month": 9,
+        "Wheat": 0.213,
+        "Barley": 0.181,
+        "Oats": 0.224,
+        "Rye": 0.189,
+        "Potatoes": 0.292
+    },
+    {
+        "Year": 2014,
+        "Month": 10,
+        "Wheat": 0.211,
+        "Barley": 0.181,
+        "Oats": 0.222,
+        "Rye": 0.184,
+        "Potatoes": 0.294
+    },
+    {
+        "Year": 2014,
+        "Month": 11,
+        "Wheat": 0.219,
+        "Barley": 0.19,
+        "Oats": 0.229,
+        "Rye": 0.187,
+        "Potatoes": 0.299
+    },
+    {
+        "Year": 2014,
+        "Month": 12,
+        "Wheat": 0.219,
+        "Barley": 0.188,
+        "Oats": 0.223,
+        "Rye": 0.183,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2015,
+        "Month": 1,
+        "Wheat": 0.217,
+        "Barley": 0.186,
+        "Oats": 0.222,
+        "Rye": 0.183,
+        "Potatoes": 0.29
+    },
+    {
+        "Year": 2015,
+        "Month": 2,
+        "Wheat": 0.219,
+        "Barley": 0.186,
+        "Oats": 0.229,
+        "Rye": 0.184,
+        "Potatoes": 0.3
+    },
+    {
+        "Year": 2015,
+        "Month": 3,
+        "Wheat": 0.216,
+        "Barley": 0.184,
+        "Oats": 0.225,
+        "Rye": 0.181,
+        "Potatoes": 0.292
+    },
+    {
+        "Year": 2015,
+        "Month": 4,
+        "Wheat": 0.215,
+        "Barley": 0.183,
+        "Oats": 0.225,
+        "Rye": 0.191,
+        "Potatoes": 0.295
+    },
+    {
+        "Year": 2015,
+        "Month": 5,
+        "Wheat": 0.217,
+        "Barley": 0.188,
+        "Oats": 0.231,
+        "Rye": 0.188,
+        "Potatoes": 0.293
+    },
+    {
+        "Year": 2015,
+        "Month": 6,
+        "Wheat": 0.214,
+        "Barley": 0.183,
+        "Oats": 0.225,
+        "Rye": 0.19,
+        "Potatoes": 0.299
+    },
+    {
+        "Year": 2015,
+        "Month": 7,
+        "Wheat": 0.219,
+        "Barley": 0.185,
+        "Oats": 0.223,
+        "Rye": 0.192,
+        "Potatoes": 0.299
+    },
+    {
+        "Year": 2015,
+        "Month": 8,
+        "Wheat": 0.218,
+        "Barley": 0.188,
+        "Oats": 0.227,
+        "Rye": 0.186,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2015,
+        "Month": 9,
+        "Wheat": 0.221,
+        "Barley": 0.182,
+        "Oats": 0.225,
+        "Rye": 0.186,
+        "Potatoes": 0.3
+    },
+    {
+        "Year": 2015,
+        "Month": 10,
+        "Wheat": 0.214,
+        "Barley": 0.183,
+        "Oats": 0.231,
+        "Rye": 0.187,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2015,
+        "Month": 11,
+        "Wheat": 0.215,
+        "Barley": 0.186,
+        "Oats": 0.231,
+        "Rye": 0.187,
+        "Potatoes": 0.296
+    },
+    {
+        "Year": 2015,
+        "Month": 12,
+        "Wheat": 0.217,
+        "Barley": 0.186,
+        "Oats": 0.234,
+        "Rye": 0.188,
+        "Potatoes": 0.294
+    },
+    {
+        "Year": 2016,
+        "Month": 1,
+        "Wheat": 0.215,
+        "Barley": 0.186,
+        "Oats": 0.231,
+        "Rye": 0.193,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2016,
+        "Month": 2,
+        "Wheat": 0.214,
+        "Barley": 0.186,
+        "Oats": 0.234,
+        "Rye": 0.192,
+        "Potatoes": 0.296
+    },
+    {
+        "Year": 2016,
+        "Month": 3,
+        "Wheat": 0.221,
+        "Barley": 0.184,
+        "Oats": 0.227,
+        "Rye": 0.193,
+        "Potatoes": 0.295
+    },
+    {
+        "Year": 2016,
+        "Month": 4,
+        "Wheat": 0.212,
+        "Barley": 0.185,
+        "Oats": 0.234,
+        "Rye": 0.187,
+        "Potatoes": 0.296
+    },
+    {
+        "Year": 2016,
+        "Month": 5,
+        "Wheat": 0.217,
+        "Barley": 0.182,
+        "Oats": 0.228,
+        "Rye": 0.188,
+        "Potatoes": 0.292
+    },
+    {
+        "Year": 2016,
+        "Month": 6,
+        "Wheat": 0.214,
+        "Barley": 0.189,
+        "Oats": 0.233,
+        "Rye": 0.194,
+        "Potatoes": 0.3
+    },
+    {
+        "Year": 2016,
+        "Month": 7,
+        "Wheat": 0.214,
+        "Barley": 0.19,
+        "Oats": 0.23,
+        "Rye": 0.194,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2016,
+        "Month": 8,
+        "Wheat": 0.213,
+        "Barley": 0.183,
+        "Oats": 0.232,
+        "Rye": 0.187,
+        "Potatoes": 0.302
+    },
+    {
+        "Year": 2016,
+        "Month": 9,
+        "Wheat": 0.219,
+        "Barley": 0.191,
+        "Oats": 0.232,
+        "Rye": 0.195,
+        "Potatoes": 0.296
+    },
+    {
+        "Year": 2016,
+        "Month": 10,
+        "Wheat": 0.219,
+        "Barley": 0.187,
+        "Oats": 0.235,
+        "Rye": 0.189,
+        "Potatoes": 0.296
+    },
+    {
+        "Year": 2016,
+        "Month": 11,
+        "Wheat": 0.214,
+        "Barley": 0.185,
+        "Oats": 0.232,
+        "Rye": 0.191,
+        "Potatoes": 0.299
+    },
+    {
+        "Year": 2016,
+        "Month": 12,
+        "Wheat": 0.218,
+        "Barley": 0.184,
+        "Oats": 0.237,
+        "Rye": 0.19,
+        "Potatoes": 0.293
+    },
+    {
+        "Year": 2017,
+        "Month": 1,
+        "Wheat": 0.214,
+        "Barley": 0.189,
+        "Oats": 0.233,
+        "Rye": 0.189,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2017,
+        "Month": 2,
+        "Wheat": 0.221,
+        "Barley": 0.192,
+        "Oats": 0.237,
+        "Rye": 0.192,
+        "Potatoes": 0.299
+    },
+    {
+        "Year": 2017,
+        "Month": 3,
+        "Wheat": 0.222,
+        "Barley": 0.187,
+        "Oats": 0.24,
+        "Rye": 0.195,
+        "Potatoes": 0.295
+    },
+    {
+        "Year": 2017,
+        "Month": 4,
+        "Wheat": 0.218,
+        "Barley": 0.189,
+        "Oats": 0.237,
+        "Rye": 0.195,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2017,
+        "Month": 5,
+        "Wheat": 0.22,
+        "Barley": 0.192,
+        "Oats": 0.24,
+        "Rye": 0.193,
+        "Potatoes": 0.296
+    },
+    {
+        "Year": 2017,
+        "Month": 6,
+        "Wheat": 0.217,
+        "Barley": 0.19,
+        "Oats": 0.239,
+        "Rye": 0.196,
+        "Potatoes": 0.302
+    },
+    {
+        "Year": 2017,
+        "Month": 7,
+        "Wheat": 0.219,
+        "Barley": 0.187,
+        "Oats": 0.234,
+        "Rye": 0.192,
+        "Potatoes": 0.294
+    },
+    {
+        "Year": 2017,
+        "Month": 8,
+        "Wheat": 0.221,
+        "Barley": 0.183,
+        "Oats": 0.241,
+        "Rye": 0.19,
+        "Potatoes": 0.295
+    },
+    {
+        "Year": 2017,
+        "Month": 9,
+        "Wheat": 0.216,
+        "Barley": 0.192,
+        "Oats": 0.234,
+        "Rye": 0.191,
+        "Potatoes": 0.293
+    },
+    {
+        "Year": 2017,
+        "Month": 10,
+        "Wheat": 0.22,
+        "Barley": 0.19,
+        "Oats": 0.24,
+        "Rye": 0.189,
+        "Potatoes": 0.302
+    },
+    {
+        "Year": 2017,
+        "Month": 11,
+        "Wheat": 0.213,
+        "Barley": 0.183,
+        "Oats": 0.235,
+        "Rye": 0.192,
+        "Potatoes": 0.3
+    },
+    {
+        "Year": 2017,
+        "Month": 12,
+        "Wheat": 0.22,
+        "Barley": 0.191,
+        "Oats": 0.245,
+        "Rye": 0.191,
+        "Potatoes": 0.301
+    },
+    {
+        "Year": 2018,
+        "Month": 1,
+        "Wheat": 0.219,
+        "Barley": 0.188,
+        "Oats": 0.243,
+        "Rye": 0.198,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2018,
+        "Month": 2,
+        "Wheat": 0.213,
+        "Barley": 0.184,
+        "Oats": 0.239,
+        "Rye": 0.19,
+        "Potatoes": 0.3
+    },
+    {
+        "Year": 2018,
+        "Month": 3,
+        "Wheat": 0.221,
+        "Barley": 0.183,
+        "Oats": 0.238,
+        "Rye": 0.19,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2018,
+        "Month": 4,
+        "Wheat": 0.217,
+        "Barley": 0.186,
+        "Oats": 0.241,
+        "Rye": 0.195,
+        "Potatoes": 0.299
+    },
+    {
+        "Year": 2018,
+        "Month": 5,
+        "Wheat": 0.219,
+        "Barley": 0.192,
+        "Oats": 0.245,
+        "Rye": 0.195,
+        "Potatoes": 0.295
+    },
+    {
+        "Year": 2018,
+        "Month": 6,
+        "Wheat": 0.222,
+        "Barley": 0.19,
+        "Oats": 0.244,
+        "Rye": 0.199,
+        "Potatoes": 0.303
+    },
+    {
+        "Year": 2018,
+        "Month": 7,
+        "Wheat": 0.22,
+        "Barley": 0.188,
+        "Oats": 0.239,
+        "Rye": 0.191,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2018,
+        "Month": 8,
+        "Wheat": 0.219,
+        "Barley": 0.193,
+        "Oats": 0.243,
+        "Rye": 0.198,
+        "Potatoes": 0.3
+    },
+    {
+        "Year": 2018,
+        "Month": 9,
+        "Wheat": 0.223,
+        "Barley": 0.184,
+        "Oats": 0.241,
+        "Rye": 0.191,
+        "Potatoes": 0.295
+    },
+    {
+        "Year": 2018,
+        "Month": 10,
+        "Wheat": 0.217,
+        "Barley": 0.193,
+        "Oats": 0.24,
+        "Rye": 0.193,
+        "Potatoes": 0.295
+    },
+    {
+        "Year": 2018,
+        "Month": 11,
+        "Wheat": 0.224,
+        "Barley": 0.19,
+        "Oats": 0.245,
+        "Rye": 0.202,
+        "Potatoes": 0.302
+    },
+    {
+        "Year": 2018,
+        "Month": 12,
+        "Wheat": 0.22,
+        "Barley": 0.193,
+        "Oats": 0.242,
+        "Rye": 0.201,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2019,
+        "Month": 1,
+        "Wheat": 0.215,
+        "Barley": 0.186,
+        "Oats": 0.24,
+        "Rye": 0.201,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2019,
+        "Month": 2,
+        "Wheat": 0.215,
+        "Barley": 0.187,
+        "Oats": 0.246,
+        "Rye": 0.194,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2019,
+        "Month": 3,
+        "Wheat": 0.219,
+        "Barley": 0.185,
+        "Oats": 0.25,
+        "Rye": 0.199,
+        "Potatoes": 0.303
+    },
+    {
+        "Year": 2019,
+        "Month": 4,
+        "Wheat": 0.218,
+        "Barley": 0.193,
+        "Oats": 0.25,
+        "Rye": 0.201,
+        "Potatoes": 0.301
+    },
+    {
+        "Year": 2019,
+        "Month": 5,
+        "Wheat": 0.223,
+        "Barley": 0.19,
+        "Oats": 0.243,
+        "Rye": 0.196,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2019,
+        "Month": 6,
+        "Wheat": 0.221,
+        "Barley": 0.19,
+        "Oats": 0.248,
+        "Rye": 0.199,
+        "Potatoes": 0.295
+    },
+    {
+        "Year": 2019,
+        "Month": 7,
+        "Wheat": 0.215,
+        "Barley": 0.192,
+        "Oats": 0.249,
+        "Rye": 0.199,
+        "Potatoes": 0.304
+    },
+    {
+        "Year": 2019,
+        "Month": 8,
+        "Wheat": 0.22,
+        "Barley": 0.188,
+        "Oats": 0.246,
+        "Rye": 0.198,
+        "Potatoes": 0.3
+    },
+    {
+        "Year": 2019,
+        "Month": 9,
+        "Wheat": 0.22,
+        "Barley": 0.187,
+        "Oats": 0.246,
+        "Rye": 0.196,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2019,
+        "Month": 10,
+        "Wheat": 0.223,
+        "Barley": 0.193,
+        "Oats": 0.252,
+        "Rye": 0.198,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2019,
+        "Month": 11,
+        "Wheat": 0.221,
+        "Barley": 0.189,
+        "Oats": 0.253,
+        "Rye": 0.204,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2019,
+        "Month": 12,
+        "Wheat": 0.224,
+        "Barley": 0.19,
+        "Oats": 0.254,
+        "Rye": 0.198,
+        "Potatoes": 0.304
+    },
+    {
+        "Year": 2020,
+        "Month": 1,
+        "Wheat": 0.223,
+        "Barley": 0.191,
+        "Oats": 0.249,
+        "Rye": 0.199,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2020,
+        "Month": 2,
+        "Wheat": 0.221,
+        "Barley": 0.194,
+        "Oats": 0.247,
+        "Rye": 0.202,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2020,
+        "Month": 3,
+        "Wheat": 0.23,
+        "Barley": 0.196,
+        "Oats": 0.257,
+        "Rye": 0.209,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2020,
+        "Month": 4,
+        "Wheat": 0.23,
+        "Barley": 0.197,
+        "Oats": 0.255,
+        "Rye": 0.21,
+        "Potatoes": 0.305
+    },
+    {
+        "Year": 2020,
+        "Month": 5,
+        "Wheat": 0.229,
+        "Barley": 0.204,
+        "Oats": 0.261,
+        "Rye": 0.209,
+        "Potatoes": 0.299
+    },
+    {
+        "Year": 2020,
+        "Month": 6,
+        "Wheat": 0.235,
+        "Barley": 0.207,
+        "Oats": 0.26,
+        "Rye": 0.21,
+        "Potatoes": 0.297
+    },
+    {
+        "Year": 2020,
+        "Month": 7,
+        "Wheat": 0.234,
+        "Barley": 0.209,
+        "Oats": 0.261,
+        "Rye": 0.214,
+        "Potatoes": 0.304
+    },
+    {
+        "Year": 2020,
+        "Month": 8,
+        "Wheat": 0.241,
+        "Barley": 0.207,
+        "Oats": 0.257,
+        "Rye": 0.216,
+        "Potatoes": 0.306
+    },
+    {
+        "Year": 2020,
+        "Month": 9,
+        "Wheat": 0.241,
+        "Barley": 0.216,
+        "Oats": 0.264,
+        "Rye": 0.223,
+        "Potatoes": 0.304
+    },
+    {
+        "Year": 2020,
+        "Month": 10,
+        "Wheat": 0.249,
+        "Barley": 0.218,
+        "Oats": 0.262,
+        "Rye": 0.223,
+        "Potatoes": 0.303
+    },
+    {
+        "Year": 2020,
+        "Month": 11,
+        "Wheat": 0.254,
+        "Barley": 0.222,
+        "Oats": 0.267,
+        "Rye": 0.226,
+        "Potatoes": 0.307
+    },
+    {
+        "Year": 2020,
+        "Month": 12,
+        "Wheat": 0.251,
+        "Barley": 0.225,
+        "Oats": 0.266,
+        "Rye": 0.223,
+        "Potatoes": 0.302
+    },
+    {
+        "Year": 2021,
+        "Month": 1,
+        "Wheat": 0.257,
+        "Barley": 0.215,
+        "Oats": 0.266,
+        "Rye": 0.232,
+        "Potatoes": 0.298
+    },
+    {
+        "Year": 2021,
+        "Month": 2,
+        "Wheat": 0.258,
+        "Barley": 0.225,
+        "Oats": 0.269,
+        "Rye": 0.229,
+        "Potatoes": 0.303
+    },
+    {
+        "Year": 2021,
+        "Month": 3,
+        "Wheat": 0.261,
+        "Barley": 0.226,
+        "Oats": 0.267,
+        "Rye": 0.237,
+        "Potatoes": 0.3
+    },
+    {
+        "Year": 2021,
+        "Month": 4,
+        "Wheat": 0.257,
+        "Barley": 0.232,
+        "Oats": 0.271,
+        "Rye": 0.239,
+        "Potatoes": 0.305
+    },
+    {
+        "Year": 2021,
+        "Month": 5,
+        "Wheat": 0.263,
+        "Barley": 0.226,
+        "Oats": 0.272,
+        "Rye": 0.236,
+        "Potatoes": 0.303
+    },
+    {
+        "Year": 2021,
+        "Month": 6,
+        "Wheat": 0.263,
+        "Barley": 0.229,
+        "Oats": 0.276,
+        "Rye": 0.243,
+        "Potatoes": 0.303
+    },
+    {
+        "Year": 2021,
+        "Month": 7,
+        "Wheat": 0.269,
+        "Barley": 0.235,
+        "Oats": 0.273,
+        "Rye": 0.241,
+        "Potatoes": 0.306
+    },
+    {
+        "Year": 2021,
+        "Month": 8,
+        "Wheat": 0.277,
+        "Barley": 0.24,
+        "Oats": 0.28,
+        "Rye": 0.242,
+        "Potatoes": 0.301
+    },
+    {
+        "Year": 2021,
+        "Month": 9,
+        "Wheat": 0.273,
+        "Barley": 0.245,
+        "Oats": 0.285,
+        "Rye": 0.243,
+        "Potatoes": 0.306
+    },
+    {
+        "Year": 2021,
+        "Month": 10,
+        "Wheat": 0.281,
+        "Barley": 0.249,
+        "Oats": 0.279,
+        "Rye": 0.247,
+        "Potatoes": 0.302
+    },
+    {
+        "Year": 2021,
+        "Month": 11,
+        "Wheat": 0.283,
+        "Barley": 0.247,
+        "Oats": 0.279,
+        "Rye": 0.253,
+        "Potatoes": 0.302
+    },
+    {
+        "Year": 2021,
+        "Month": 12,
+        "Wheat": 0.287,
+        "Barley": 0.247,
+        "Oats": 0.28,
+        "Rye": 0.259,
+        "Potatoes": 0.306
+    },
+    {
+        "Year": 2022,
+        "Month": 1,
+        "Wheat": 0.285,
+        "Barley": 0.25,
+        "Oats": 0.287,
+        "Rye": 0.25,
+        "Potatoes": 0.305
+    },
+    {
+        "Year": 2022,
+        "Month": 2,
+        "Wheat": 0.292,
+        "Barley": 0.252,
+        "Oats": 0.282,
+        "Rye": 0.259,
+        "Potatoes": 0.306
+    },
+    {
+        "Year": 2022,
+        "Month": 3,
+        "Wheat": 0.292,
+        "Barley": 0.251,
+        "Oats": 0.288,
+        "Rye": 0.256,
+        "Potatoes": 0.305
+    },
+    {
+        "Year": 2022,
+        "Month": 4,
+        "Wheat": 0.296,
+        "Barley": 0.255,
+        "Oats": 0.286,
+        "Rye": 0.266,
+        "Potatoes": 0.304
+    },
+    {
+        "Year": 2022,
+        "Month": 5,
+        "Wheat": 0.293,
+        "Barley": 0.257,
+        "Oats": 0.296,
+        "Rye": 0.263,
+        "Potatoes": 0.302
+    },
+    {
+        "Year": 2022,
+        "Month": 6,
+        "Wheat": 0.297,
+        "Barley": 0.268,
+        "Oats": 0.29,
+        "Rye": 0.264,
+        "Potatoes": 0.305
+    },
+    {
+        "Year": 2022,
+        "Month": 7,
+        "Wheat": 0.298,
+        "Barley": 0.271,
+        "Oats": 0.293,
+        "Rye": 0.273,
+        "Potatoes": 0.303
+    },
+    {
+        "Year": 2022,
+        "Month": 8,
+        "Wheat": 0.303,
+        "Barley": 0.268,
+        "Oats": 0.296,
+        "Rye": 0.27,
+        "Potatoes": 0.311
+    },
+    {
+        "Year": 2022,
+        "Month": 9,
+        "Wheat": 0.308,
+        "Barley": 0.273,
+        "Oats": 0.298,
+        "Rye": 0.278,
+        "Potatoes": 0.308
+    },
+    {
+        "Year": 2022,
+        "Month": 10,
+        "Wheat": 0.315,
+        "Barley": 0.27,
+        "Oats": 0.296,
+        "Rye": 0.279,
+        "Potatoes": 0.306
+    },
+    {
+        "Year": 2022,
+        "Month": 11,
+        "Wheat": 0.317,
+        "Barley": 0.281,
+        "Oats": 0.299,
+        "Rye": 0.282,
+        "Potatoes": 0.306
+    },
+    {
+        "Year": 2022,
+        "Month": 12,
+        "Wheat": 0.314,
+        "Barley": 0.278,
+        "Oats": 0.303,
+        "Rye": 0.286,
+        "Potatoes": 0.308
+    },
+    {
+        "Year": 2023,
+        "Month": 1,
+        "Wheat": 0.315,
+        "Barley": 0.278,
+        "Oats": 0.298,
+        "Rye": 0.279,
+        "Potatoes": 0.305
+    },
+    {
+        "Year": 2023,
+        "Month": 2,
+        "Wheat": 0.316,
+        "Barley": 0.287,
+        "Oats": 0.303,
+        "Rye": 0.286,
+        "Potatoes": 0.311
+    },
+    {
+        "Year": 2023,
+        "Month": 3,
+        "Wheat": 0.328,
+        "Barley": 0.283,
+        "Oats": 0.307,
+        "Rye": 0.288,
+        "Potatoes": 0.313
+    },
+    {
+        "Year": 2023,
+        "Month": 4,
+        "Wheat": 0.326,
+        "Barley": 0.292,
+        "Oats": 0.31,
+        "Rye": 0.289,
+        "Potatoes": 0.313
+    },
+    {
+        "Year": 2023,
+        "Month": 5,
+        "Wheat": 0.327,
+        "Barley": 0.288,
+        "Oats": 0.312,
+        "Rye": 0.288,
+        "Potatoes": 0.313
+    },
+    {
+        "Year": 2023,
+        "Month": 6,
+        "Wheat": 0.331,
+        "Barley": 0.298,
+        "Oats": 0.311,
+        "Rye": 0.295,
+        "Potatoes": 0.305
+    },
+    {
+        "Year": 2023,
+        "Month": 7,
+        "Wheat": 0.334,
+        "Barley": 0.299,
+        "Oats": 0.307,
+        "Rye": 0.302,
+        "Potatoes": 0.313
+    },
+    {
+        "Year": 2023,
+        "Month": 8,
+        "Wheat": 0.341,
+        "Barley": 0.299,
+        "Oats": 0.315,
+        "Rye": 0.305,
+        "Potatoes": 0.305
+    },
+    {
+        "Year": 2023,
+        "Month": 9,
+        "Wheat": 0.34,
+        "Barley": 0.302,
+        "Oats": 0.318,
+        "Rye": 0.299,
+        "Potatoes": 0.306
+    },
+    {
+        "Year": 2023,
+        "Month": 10,
+        "Wheat": 0.348,
+        "Barley": 0.303,
+        "Oats": 0.321,
+        "Rye": 0.307,
+        "Potatoes": 0.31
+    },
+    {
+        "Year": 2023,
+        "Month": 11,
+        "Wheat": 0.351,
+        "Barley": 0.311,
+        "Oats": 0.316,
+        "Rye": 0.304,
+        "Potatoes": 0.314
+    },
+    {
+        "Year": 2023,
+        "Month": 12,
+        "Wheat": 0.355,
+        "Barley": 0.308,
+        "Oats": 0.323,
+        "Rye": 0.312,
+        "Potatoes": 0.306
+    },
+    {
+        "Year": 2024,
+        "Month": 1,
+        "Wheat": 0.346,
+        "Barley": 0.31,
+        "Oats": 0.319,
+        "Rye": 0.313,
+        "Potatoes": 0.308
+    },
+    {
+        "Year": 2024,
+        "Month": 2,
+        "Wheat": 0.352,
+        "Barley": 0.31,
+        "Oats": 0.319,
+        "Rye": 0.313,
+        "Potatoes": 0.312
+    },
+    {
+        "Year": 2024,
+        "Month": 3,
+        "Wheat": 0.351,
+        "Barley": 0.306,
+        "Oats": 0.315,
+        "Rye": 0.313,
+        "Potatoes": 0.31
+    },
+    {
+        "Year": 2024,
+        "Month": 4,
+        "Wheat": 0.346,
+        "Barley": 0.312,
+        "Oats": 0.318,
+        "Rye": 0.31,
+        "Potatoes": 0.308
+    },
+    {
+        "Year": 2024,
+        "Month": 5,
+        "Wheat": 0.349,
+        "Barley": 0.309,
+        "Oats": 0.317,
+        "Rye": 0.31,
+        "Potatoes": 0.305
+    },
+    {
+        "Year": 2024,
+        "Month": 6,
+        "Wheat": 0.351,
+        "Barley": 0.308,
+        "Oats": 0.319,
+        "Rye": 0.31,
+        "Potatoes": 0.308
+    },
+    {
+        "Year": 2024,
+        "Month": 7,
+        "Wheat": 0.347,
+        "Barley": 0.312,
+        "Oats": 0.316,
+        "Rye": 0.312,
+        "Potatoes": 0.307
+    },
+    {
+        "Year": 2024,
+        "Month": 8,
+        "Wheat": 0.35,
+        "Barley": 0.312,
+        "Oats": 0.324,
+        "Rye": 0.313,
+        "Potatoes": 0.313
+    },
+    {
+        "Year": 2024,
+        "Month": 9,
+        "Wheat": 0.354,
+        "Barley": 0.305,
+        "Oats": 0.321,
+        "Rye": 0.307,
+        "Potatoes": 0.313
+    },
+    {
+        "Year": 2024,
+        "Month": 10,
+        "Wheat": 0.355,
+        "Barley": 0.311,
+        "Oats": 0.317,
+        "Rye": 0.306,
+        "Potatoes": 0.306
+    },
+    {
+        "Year": 2024,
+        "Month": 11,
+        "Wheat": 0.355,
+        "Barley": 0.312,
+        "Oats": 0.32,
+        "Rye": 0.314,
+        "Potatoes": 0.309
+    },
+    {
+        "Year": 2024,
+        "Month": 12,
+        "Wheat": 0.351,
+        "Barley": 0.312,
+        "Oats": 0.315,
+        "Rye": 0.306,
+        "Potatoes": 0.305
+    }
+]

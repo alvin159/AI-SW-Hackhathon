@@ -1,0 +1,342 @@
+[
+    {
+        "year": 1990,
+        "Wheat": 0.15,
+        "Barley": 0.12,
+        "Oats": 0.14,
+        "Rye": 0.1,
+        "Potatoes": 0.2,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 1991,
+        "Wheat": 0.1531736842,
+        "Barley": 0.1232421053,
+        "Oats": 0.1430789474,
+        "Rye": 0.1040473684,
+        "Potatoes": 0.2056684211,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 1992,
+        "Wheat": 0.1563473684,
+        "Barley": 0.1264842105,
+        "Oats": 0.1461578947,
+        "Rye": 0.1080947368,
+        "Potatoes": 0.2113368421,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 1993,
+        "Wheat": 0.1595210526,
+        "Barley": 0.1297263158,
+        "Oats": 0.1492368421,
+        "Rye": 0.1121421053,
+        "Potatoes": 0.2170052632,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 1994,
+        "Wheat": 0.1626947368,
+        "Barley": 0.1329684211,
+        "Oats": 0.1523157895,
+        "Rye": 0.1161894737,
+        "Potatoes": 0.2226736842,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 1995,
+        "Wheat": 0.1658684211,
+        "Barley": 0.1362105263,
+        "Oats": 0.1553947368,
+        "Rye": 0.1202368421,
+        "Potatoes": 0.2283421053,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 1996,
+        "Wheat": 0.1690421053,
+        "Barley": 0.1394526316,
+        "Oats": 0.1584736842,
+        "Rye": 0.1242842105,
+        "Potatoes": 0.2340105263,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 1997,
+        "Wheat": 0.1722157895,
+        "Barley": 0.1426947368,
+        "Oats": 0.1615526316,
+        "Rye": 0.1283315789,
+        "Potatoes": 0.2396789474,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 1998,
+        "Wheat": 0.1753894737,
+        "Barley": 0.1459368421,
+        "Oats": 0.1646315789,
+        "Rye": 0.1323789474,
+        "Potatoes": 0.2453473684,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 1999,
+        "Wheat": 0.1785631579,
+        "Barley": 0.1491789474,
+        "Oats": 0.1677105263,
+        "Rye": 0.1364263158,
+        "Potatoes": 0.2510157895,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2000,
+        "Wheat": 0.1817368421,
+        "Barley": 0.1524210526,
+        "Oats": 0.1707894737,
+        "Rye": 0.1404736842,
+        "Potatoes": 0.2566842105,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2001,
+        "Wheat": 0.1849105263,
+        "Barley": 0.1556631579,
+        "Oats": 0.1738684211,
+        "Rye": 0.1445210526,
+        "Potatoes": 0.2623526316,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2002,
+        "Wheat": 0.1880842105,
+        "Barley": 0.1589052632,
+        "Oats": 0.1769473684,
+        "Rye": 0.1485684211,
+        "Potatoes": 0.2680210526,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2003,
+        "Wheat": 0.1912578947,
+        "Barley": 0.1621473684,
+        "Oats": 0.1800263158,
+        "Rye": 0.1526157895,
+        "Potatoes": 0.2736894737,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2004,
+        "Wheat": 0.1944315789,
+        "Barley": 0.1653894737,
+        "Oats": 0.1831052632,
+        "Rye": 0.1566631579,
+        "Potatoes": 0.2793578947,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2005,
+        "Wheat": 0.1976052632,
+        "Barley": 0.1686315789,
+        "Oats": 0.1861842105,
+        "Rye": 0.1607105263,
+        "Potatoes": 0.2850263158,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2006,
+        "Wheat": 0.2007789474,
+        "Barley": 0.1718736842,
+        "Oats": 0.1892631579,
+        "Rye": 0.1647578947,
+        "Potatoes": 0.2906947368,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2007,
+        "Wheat": 0.2039526316,
+        "Barley": 0.1751157895,
+        "Oats": 0.1923421053,
+        "Rye": 0.1688052632,
+        "Potatoes": 0.2963631579,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2008,
+        "Wheat": 0.2071263158,
+        "Barley": 0.1783578947,
+        "Oats": 0.1954210526,
+        "Rye": 0.1728526316,
+        "Potatoes": 0.3020315789,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2009,
+        "Wheat": 0.2103,
+        "Barley": 0.1816,
+        "Oats": 0.1985,
+        "Rye": 0.1769,
+        "Potatoes": 0.3077,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2010,
+        "Wheat": 0.2103,
+        "Barley": 0.1816,
+        "Oats": 0.1985,
+        "Rye": 0.1769,
+        "Potatoes": 0.3077,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2011,
+        "Wheat": 0.3002,
+        "Barley": 0.2853,
+        "Oats": 0.3123,
+        "Rye": 0.3003,
+        "Potatoes": 0.3737,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2012,
+        "Wheat": 0.2991,
+        "Barley": 0.2841,
+        "Oats": 0.3037,
+        "Rye": 0.2799,
+        "Potatoes": 0.2904,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2013,
+        "Wheat": 0.2876,
+        "Barley": 0.2746,
+        "Oats": 0.3075,
+        "Rye": 0.2546,
+        "Potatoes": 0.3863,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2014,
+        "Wheat": 0.2563,
+        "Barley": 0.2231,
+        "Oats": 0.2603,
+        "Rye": 0.2249,
+        "Potatoes": 0.3102,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2015,
+        "Wheat": 0.2038,
+        "Barley": 0.1917,
+        "Oats": 0.2154,
+        "Rye": 0.1804,
+        "Potatoes": 0.2627,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2016,
+        "Wheat": 0.1751,
+        "Barley": 0.1665,
+        "Oats": 0.2232,
+        "Rye": 0.1859,
+        "Potatoes": 0.3028,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2017,
+        "Wheat": 0.185,
+        "Barley": 0.1704,
+        "Oats": 0.2325,
+        "Rye": 0.2019,
+        "Potatoes": 0.2957,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2018,
+        "Wheat": 0.2028,
+        "Barley": 0.2056,
+        "Oats": 0.2504,
+        "Rye": 0.213,
+        "Potatoes": 0.3053,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2019,
+        "Wheat": 0.2041,
+        "Barley": 0.1959,
+        "Oats": 0.2465,
+        "Rye": 0.212,
+        "Potatoes": 0.3391,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2020,
+        "Wheat": 0.2178,
+        "Barley": 0.1902,
+        "Oats": 0.2455,
+        "Rye": 0.1935,
+        "Potatoes": 0.2882,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2021,
+        "Wheat": 0.2667,
+        "Barley": 0.24,
+        "Oats": 0.2625,
+        "Rye": 0.2269,
+        "Potatoes": 0.2867,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2022,
+        "Wheat": 0.3448,
+        "Barley": 0.3086,
+        "Oats": 0.3245,
+        "Rye": 0.3099,
+        "Potatoes": 0.3102,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    },
+    {
+        "year": 2023,
+        "Wheat": 0.3448,
+        "Barley": 0.3086,
+        "Oats": 0.3245,
+        "Rye": 0.3099,
+        "Potatoes": 0.3102,
+        "Currency": "USD",
+        "Definition": "Price per unit in USD\/kg (United States Dollar per kilogram)"
+    }
+]
