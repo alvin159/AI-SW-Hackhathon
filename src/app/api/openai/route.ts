@@ -17,7 +17,9 @@ export async function POST(req: NextRequest) {
       Crops: ${JSON.stringify(historicalTrends.crops)}
       Fertilizers: ${JSON.stringify(historicalTrends.fertilizers)}
       Pesticides: ${JSON.stringify(historicalTrends.pesticides)}
-
+      Crop Yield: ${JSON.stringify(historicalTrends.cropYield)}
+      Fertilizer Sales: ${JSON.stringify(historicalTrends.fertilizersSales)}
+      
       News Insights:
       ${newsInsights.join("\n")}
 
