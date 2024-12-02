@@ -30,9 +30,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# env files (can opt-in for committing if needed)
-.env.local
+# Ignore all .env files
 .env*
+
+# Allow .env.example
+!.env.example
+
 # vercel
 .vercel
 
