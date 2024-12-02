@@ -10,6 +10,7 @@ import WeatherForecast from "@/components/weather/WeatherForecast";
 
 export default function DashboardPage() {
 
+
   return (
     <div className="space-y-6">
 
@@ -29,5 +30,8 @@ export default function DashboardPage() {
         </Card>
       </div>
     </div>
+  );
+}
+
   );
 }
