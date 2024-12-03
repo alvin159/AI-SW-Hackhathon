@@ -2,6 +2,14 @@
 
 A modern dashboard for analyzing agricultural market trends in Finland, built with Next.js, Tailwind CSS, and ShadcnUI.
 
+In the dashboard, there is an AI assistant that helps analyze different types of crops based on our available data, as seen in the video below:
+
+[Dashboard Video](videos/Media1.mp4)
+
+In the trends page, we can see the line graphs of the parameters and the weather forecast, as seen in the video below:
+
+[Trends Video](videos/Media2.mp4)
+
 ## Features
 
 - 📊 Visualization of crop yields, production forecasts and fertilizer sales data
@@ -57,7 +65,7 @@ rm package-lock.json
 
 2. Reinstall dependencies:
 ```bash
-npm install --legacy-peer-deps
+npm install
 ```
 
 
