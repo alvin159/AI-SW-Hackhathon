@@ -4,11 +4,11 @@ A modern dashboard for analyzing agricultural market trends in Finland, built wi
 
 In the dashboard, there is an AI assistant that helps analyze different types of crops based on our available data, as seen in the video below:
 
-[Dashboard Video](videos/Media1.mp4)
+https://github.com/user-attachments/assets/9e6be74c-f6b6-4ce5-a90c-a32c4f8e56f5
 
 In the trends page, we can see the line graphs of the parameters and the weather forecast, as seen in the video below:
 
-[Trends Video](videos/Media2.mp4)
+https://github.com/user-attachments/assets/49b55020-7fa3-48e2-a296-313f88fee23f
 
 ## Features
 
